@@ -87,5 +87,174 @@ df232.text = df232.apply(lambda row: " ".join(re.sub("[^a-zA-ZüöäÜÖÄ]+", "
 df232 = df232.loc[(df271.text != ""), :]
 
 
+#STEP 8 - Conduct BERTopic
+#8.1 Install bertopic and import libraries
+
+!pip install bertopic
+
+import pandas as pd
+from bertopic import BERTopic
+from sentence_transformers import SentenceTransformer
+
+from umap import UMAP
+from hdbscan import HDBSCAN
+from sklearn.feature_extraction.text import CountVectorizer
+
+import nltk
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+stopwords = stopwords.words('english') + stopwords.words("german")
+
+#8.2 Compute and save models on drive for future analysis for the top 5 communities
+
+#Choose models and parameters
+model = SentenceTransformer("all-MiniLM-L6-v2")
+vectorizer = CountVectorizer(stop_words=stopwords)
+umap_model = UMAP(n_neighbors=10, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
+hdbscan_model = HDBSCAN(min_cluster_size=800, min_samples=2, metric='euclidean', cluster_selection_method='eom')
+
+#We chose a high cluster size in order to keep the number of topics low. We are interested in the main topics of discussion in each community.
+
+##Community 180
+documents = list(df180['text'].str.lower())
+document_vectors = model.encode(documents, show_progress_bar=True)
+
+topic_model = BERTopic(
+    language = "multilingual"
+    embedding_model=model,
+    umap_model=umap_model,
+    hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer,
+    verbose=True
+).fit(documents, document_vectors)
+
+topic_model.save("Nordstream_com_180_model_clussiz_800")	
+
+print("Total Number of Topics:", len(topic_model.get_topic_freq()))
+
+topic_model.reduce_topics(documents, nr_topics=10)
+
+##Community 106
+documents = list(df106['text'].str.lower())
+document_vectors = model.encode(documents, show_progress_bar=True)
+
+topic_model = BERTopic(
+    language = "multilingual",
+    embedding_model=model,
+    umap_model=umap_model,
+    hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer,
+    verbose=True
+).fit(documents, document_vectors)
+
+print("Total Number of Topics:", len(topic_model.get_topic_freq()))
+
+topic_model.save("Nordstream_com_106_model_clussiz_800_multi")	
+
+##Community 1029
+documents = list(df1029['text'].str.lower())
+document_vectors = model.encode(documents, show_progress_bar=True)
+
+topic_model = BERTopic(
+    language="multilingual",
+    embedding_model=model,
+    umap_model=umap_model,
+    hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer,
+    verbose=True
+).fit(documents, document_vectors)
+
+topic_model.save("Nordstream_com_1029_model")
+
+print("Total Number of Topics:", len(topic_model.get_topic_freq()))
+
+##Community 246
+documents = list(df246['text'].str.lower())
+document_vectors = model.encode(documents, show_progress_bar=True)
+
+topic_model = BERTopic(
+    language="multilingual",
+    embedding_model=model,
+    umap_model=umap_model,
+    hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer,
+    verbose=True
+).fit(documents, document_vectors)
+
+topic_model.save("Nordstream_com_246_model_clussiz_800_multi")	
+
+print("Total Number of Topics:", len(topic_model.get_topic_freq()))
+
+##Community 271
+documents = list(df271['text'].str.lower())
+document_vectors = model.encode(documents, show_progress_bar=True)
+
+topic_model = BERTopic(
+    language="multilingual",
+    embedding_model=model,
+    umap_model=umap_model,
+    hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer,
+    verbose=True
+).fit(documents, document_vectors)
+
+topic_model.save("Nordstream_com_271_model_clussiz_800_multi")	
+
+print("Total Number of Topics:", len(topic_model.get_topic_freq()))
+
+
+#8.2 Compute and save models on drive for future analysis for the next 3 communities
+#Given that these communities are much smaller, we decided to reduce the min_cluster_size from 800 to 300 in order to have a similar amout of topics. This choice was made after trial and error, trying out different parameters' setups to see which worked best for our case.
+vectorizer = CountVectorizer(stop_words=stopwords)
+umap_model = UMAP(n_neighbors=10, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
+hdbscan_model = HDBSCAN(min_cluster_size=300, min_samples=2, metric='euclidean', cluster_selection_method='eom')
+
+##Community 771
+documents = list(df771['text'].str.lower())
+document_vectors = model.encode(documents, show_progress_bar=True)
+
+topic_model = BERTopic(
+    language="multilingual",
+    embedding_model=model,
+    umap_model=umap_model,
+    hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer,
+    verbose=True
+).fit(documents, document_vectors)
+
+topic_model.save("Nordstream_com_771_model_clussiz_300_multi")	
+
+##Community 232
+hdbscan_model = HDBSCAN(min_cluster_size=300, min_samples=2, metric='euclidean', cluster_selection_method='eom')
+
+documents = list(df232['text'].str.lower())
+document_vectors = model.encode(documents, show_progress_bar=True)
+
+topic_model = BERTopic(
+    language="multilingual",
+    embedding_model=model,
+    umap_model=umap_model,
+    hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer,
+    verbose=True
+).fit(documents, document_vectors)
+
+topic_model.save("Nordstream_com_232_model_clussiz_300")	
+
+##Community 479 - here we had to increase the min_cluster_size a bit to 500
+documents = list(df479['text'].str.lower())
+document_vectors = model.encode(documents, show_progress_bar=True)
+
+topic_model = BERTopic(
+    language="multilingual",
+    embedding_model=model,
+    umap_model=umap_model,
+    hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer,
+    verbose=True
+).fit(documents, document_vectors)
+
+topic_model.save("Nordstream_com_479_model_clussiz_500")	
+
 
 
