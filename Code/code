@@ -1,1 +1,91 @@
+#STEP 1 - Load the data
+
+from google.colab import drive
+drive.mount('/content/drive')
+
+import os 
+import pandas as pd 
+
+os.chdir("/content/drive/MyDrive/Colab Notebooks/DDPS/Data Project")
+df = pd.read_csv("20230312_Nordstream_df.csv")
+
+#STEP 2 - Subset only german and english tweets
+df = pd.concat([df[df["sourcetweet_lang"] == "en"], df[df["sourcetweet_lang"] == "de"]])
+
+#STEP 3 - Construct retweet network and save gml file
+! pip install igraph
+import igraph
+
+network = igraph.Graph.TupleList([(row['author_id'], 
+                                   row['sourcetweet_author_id']) for index, row in df.iterrows() if row['retweet_count'] > 0 and not pd.isna(row['sourcetweet_author_id'])], directed=True)              
+igraph.summary(network)
+igraph.write(network.simplify(), "nordstream.gml", format="gml")
+
+
+#STEP 4 - Import gml file on Gephi to visualise graph
+#STEP 5 - Calculate modularity class and page rank in gephi
+
+
+#STEP 6 - Import new dataset with modularity class
+df = pd.read_csv("Nordstream_class_data.csv")
+
+#STEP 7 - Data cleaning
+#visualise top 10 communities
+df["community_id"].groupby(df['community_id']).value_counts().nlargest(10)
+
+#Assign top communities to distinct datasets
+df180 = df[df["community_id"] == 180]
+df106 = df[df["community_id"] == 106]
+df246 = df[df["community_id"] == 246]
+df1029= df[df["community_id"] == 1029]
+df271 = df[df["community_id"] == 271]
+df479 = df[df["community_id"] == 479]
+df771 = df[df["community_id"] == 771]
+df232 = df[df["community_id"] == 232]     
+
+#clean up the text data in the DataFrames by removing URLs, Twitter handles, and non-alphabetic characters, and filter out empty tweets.
+import re
+
+df1029.text = df1029.apply(lambda row: re.sub(r"http\S+", "", row.text).lower(), 1)
+df1029.text = df1029.apply(lambda row: " ".join(filter(lambda x:x[0]!="@", row.text.split())), 1)
+df1029.text = df1029.apply(lambda row: " ".join(re.sub("[^a-zA-ZüöäÜÖÄ]+", " ", row.text).split()), 1)
+df1029 = df1029.loc[(df1029.text != ""), :]
+
+df106.text = df106.apply(lambda row: re.sub(r"http\S+", "", row.text).lower(), 1)
+df106.text = df106.apply(lambda row: " ".join(filter(lambda x:x[0]!="@", row.text.split())), 1)
+df106.text = df106.apply(lambda row: " ".join(re.sub("[^a-zA-ZüöäÜÖÄ]+", " ", row.text).split()), 1)
+df106 = df106.loc[(df106.text != ""), :]
+
+df180.text = df180.apply(lambda row: re.sub(r"http\S+", "", row.text).lower(), 1)
+df180.text = df180.apply(lambda row: " ".join(filter(lambda x:x[0]!="@", row.text.split())), 1)
+df180.text = df180.apply(lambda row: " ".join(re.sub("[^a-zA-ZüöäÜÖÄ]+", " ", row.text).split()), 1)
+df180 = df180.loc[(df180.text != ""), :]
+
+df246.text = df246.apply(lambda row: re.sub(r"http\S+", "", row.text).lower(), 1)
+df246.text = df246.apply(lambda row: " ".join(filter(lambda x:x[0]!="@", row.text.split())), 1)
+df246.text = df246.apply(lambda row: " ".join(re.sub("[^a-zA-ZüöäÜÖÄ]+", " ", row.text).split()), 1)
+df246 = df246.loc[(df246.text != ""), :]
+
+df271.text = df271.apply(lambda row: re.sub(r"http\S+", "", row.text).lower(), 1)
+df271.text = df271.apply(lambda row: " ".join(filter(lambda x:x[0]!="@", row.text.split())), 1)
+df271.text = df271.apply(lambda row: " ".join(re.sub("[^a-zA-ZüöäÜÖÄ]+", " ", row.text).split()), 1)
+df271 = df271.loc[(df271.text != ""), :]
+
+df479.text = df479.apply(lambda row: re.sub(r"http\S+", "", row.text).lower(), 1)
+df479.text = df479.apply(lambda row: " ".join(filter(lambda x:x[0]!="@", row.text.split())), 1)
+df479.text = df479.apply(lambda row: " ".join(re.sub("[^a-zA-ZüöäÜÖÄ]+", " ", row.text).split()), 1)
+df479 = df479.loc[(df479.text != ""), :]
+
+df771.text = df771.apply(lambda row: re.sub(r"http\S+", "", row.text).lower(), 1)
+df771.text = df771.apply(lambda row: " ".join(filter(lambda x:x[0]!="@", row.text.split())), 1)
+df771.text = df771.apply(lambda row: " ".join(re.sub("[^a-zA-ZüöäÜÖÄ]+", " ", row.text).split()), 1)
+df771 = df771.loc[(df771.text != ""), :]
+
+df232.text = df232.apply(lambda row: re.sub(r"http\S+", "", row.text).lower(), 1)
+df232.text = df232.apply(lambda row: " ".join(filter(lambda x:x[0]!="@", row.text.split())), 1)
+df232.text = df232.apply(lambda row: " ".join(re.sub("[^a-zA-ZüöäÜÖÄ]+", " ", row.text).split()), 1)
+df232 = df232.loc[(df271.text != ""), :]
+
+
+
 
