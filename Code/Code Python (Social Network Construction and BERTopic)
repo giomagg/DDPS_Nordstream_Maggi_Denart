@@ -113,7 +113,8 @@ vectorizer = CountVectorizer(stop_words=stopwords)
 umap_model = UMAP(n_neighbors=10, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
 hdbscan_model = HDBSCAN(min_cluster_size=800, min_samples=2, metric='euclidean', cluster_selection_method='eom')
 
-#We chose a high cluster size in order to keep the number of topics low. We are interested in the main topics of discussion in each community.
+#We chose a high cluster size (which we selected it after trying out different sizes) in order to keep the number of topics low. When the topic number was too high, we reduced it. 
+#We are interested in the main topics of discussion in each community.
 
 ##Community 180
 documents = list(df180['text'].str.lower())
