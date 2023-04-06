@@ -26,17 +26,17 @@ Against this background speculations have soared in the public sphere regarding 
 
 Following from the brief qualitative work conducted in preparation to the study – which took into account the international press in order to understand the facts and speculations surrounding the Nord Stream sabotage – we developed three main hypothesis. These concern the topics which we expected to find in the Twitter discourse around the perpetrators of the attack.
 
-> H<sub> 1 </sub>: The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.
+> **H<sub> 1 </sub>: The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.**
 
 This first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the [EUvDisinfo database](https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date=), an initiative created by the EU External Action Services to track disinformation concerning the Ukrainian war, we found this narrative to be quite prevalent.
 
-> H<sub> 2 </sub>: The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.
+> **H<sub> 2 </sub>: The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.**
 
-> H<sub> 3 </sub>: The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.
+> **H<sub> 3 </sub>: The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.**
 
 In addition, building the intuition that different communites discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
 
-> H<sub> 4 </sub>: The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively high.
+> **H<sub> 4 </sub>: The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively high.**
 
 We also expected the degree of heterogeneity to increase the futher we move away from a community in the retweet social network. What we mean by this is that if two communities are relatively close (i.e., they share many bridges relative to the number of nodes in each of them), then we can expect them to display similar topics while displaying subtle differences. On the other hand, if two communities are relatively distant (i.e., they do not share many bridges relative to the number of nodes in each of them), they will display more substantial differences in the topics and narratives present in each of them.
 
