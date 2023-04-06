@@ -8,7 +8,8 @@ Here we present a summary of our findings.
 
 ## Context of the Study
 
-On September 26th 2022, at around 2am, the Nord Stream 2  pipeline connecting Russia to Germany underwent an explosion which resulted in the failure of the system. Around seven hours later, its sister pipeline Nord Stream 1 underwent the same problems. 
+On September 26th 2022, at around 2am, the Nord Stream 2 pipeline connecting Russia to Germany underwent an explosion which resulted in the failure of the system. Around seven hours later, its sister pipeline Nord Stream 1 underwent the same problems. The two resulted in underwater gas leaks in the territorial waters of both Sweden and Denmark. The explosions were immediately recognised on September 27th as intentional sabotage by Sweden, Russia, the European Union, and NATO. While there are evidence found by the Swedish authorities concerning the cause of the explosion as well as its intentionality, there are no proofs to identify the identities of the perpetetrors nor their motives.
+
 
 
 
