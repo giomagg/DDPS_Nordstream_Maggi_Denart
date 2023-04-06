@@ -32,11 +32,11 @@ Following from the brief qualitative work conducted in preparation to the study 
 
 > H<sub> 3 </sub>: The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.
 
-In addition, building the intuition that different communites discuss different topics, with different focuses and different interests – developing different narratives around the same event, we developed a fourth hypothesis. 
+In addition, building the intuition that different communites discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
 
 > H<sub> 4 </sub>: The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively high.
 
-We also expected this heterogeneity to increase the futher we move away from a community in the retweet social network. 
+We also expected the degree of heterogeneity to increase the futher we move away from a community in the retweet social network. What we mean by this is that if two communities are relatively close (i.e., they share many bridges relative to the number of nodes in each of them), then we can expect them to display similar topics while displaying subtle differences. On the other hand, if two communities are relatively distant (i.e., they do not share many bridges relative to the number of nodes in each of them), they will display more substantial differences in the topics and narratives present in each of them.
 
 ### Methodology
 
