@@ -2,7 +2,7 @@
 
 This repository provides access to the code and the data used for the final project in the context of the course "Diving in the Digital Public Space" offered by CIVICA in the Spring of 2023 and taught by Prof. Jean-Philippe Cointet (_Sciences Po_), Prof. Marton Karsai (_Central European University_), and Armin Pournaki (_Sciences Po_). 
 
-The project was developed by Giovanni Maggi and Louis Denart, master candidates in the Digital, New technologies and Public Policy specialisation of the Sciences Po School of Public Affairs. 
+The project was developed by Giovanni Maggi and Louis Denart, master candidates in the Digital, New technologies and Public Policy specialisation of the _Sciences Po School of Public Affairs_. 
 
 Here we present a summary of our findings. 
 
