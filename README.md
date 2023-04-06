@@ -22,6 +22,10 @@ Against this background speculations have soared in the public sphere regarding 
 
 ### Research Question 
 
+Our research aims to explore how the game of pointing fingers is reflected in the Twitter debate. Specifically, because of the absence of concluding evidence from any of the investigations which have been carried on since the attack, and building on the highly heterogeneous public debate around the perpetrators of the sabotage, we ask:
+
+> **To what extent are popular rumors about the perpetrator of the Nord Stream pipeline sabotage reflected in the Twitter discourse?**
+
 ### Hypothesis
 
 Following from the brief qualitative work conducted in preparation to the study – which took into account the international press in order to understand the facts and speculations surrounding the Nord Stream sabotage – we developed three main hypothesis. These concern the topics which we expected to find in the Twitter discourse around the perpetrators of the attack.
@@ -30,7 +34,7 @@ Our first hypothesis is derived from the claims made by Russia both in front of 
 
 > **H<sub> 1 </sub>: The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.**
 
-Secondly, hypothesis number two is derived from the overall suspicion of Russia being behind the attack which has been quite prevalent in the journalistic discourse in many Western and European countries. This is mostly due to Russia's weaponisation of energy which culminated in the sabotage and often referred to Russia's . See for example: [CNN](https://edition.cnn.com/2022/09/28/politics/nord-stream-pipeline-leak-russian-navy-ships/index.html), [Politico](https://www.politico.eu/article/russia-nord-stream-pipeline-could-be-behind-nord-stream-leaks-says-former-german-intel-chief/)'s reporting on Gerhard Schindler's declarations, or [The Times](https://www.thetimes.co.uk/article/who-attacked-nord-stream-pipeline-russia-uk-west-ukraine-war-wv99ds7tx)'s summary of the different allegations. Nevertheless, no formal accuses have been put forward and the [Washington Post](https://www.washingtonpost.com/national-security/2022/12/21/russia-nord-stream-explosions/) reported that, as of December, no concluding evidence were found to support this claim. Still, our second hypothesis is: 
+Secondly, hypothesis number two is derived from the overall suspicion of Russia being behind the attack which has been quite prevalent in the journalistic discourse in many Western and European countries. This is mostly due to Russia's weaponisation of energy which culminated in the sabotage and often referred to Russia's . See for example: [CNN](https://edition.cnn.com/2022/09/28/politics/nord-stream-pipeline-leak-russian-navy-ships/index.html), [Politico](https://www.politico.eu/article/russia-nord-stream-pipeline-could-be-behind-nord-stream-leaks-says-former-german-intel-chief/)'s reporting on Gerhard Schindler's declarations, or [The Times](https://www.thetimes.co.uk/article/who-attacked-nord-stream-pipeline-russia-uk-west-ukraine-war-wv99ds7tx)'s summary of the different allegations. Nevertheless, no formal allegations have been put forward and the [Washington Post](https://www.washingtonpost.com/national-security/2022/12/21/russia-nord-stream-explosions/) reported that, as of December, no concluding evidence were found to support this claim. Still, our second hypothesis is: 
 
 > **H<sub> 2 </sub>: The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.**
 
