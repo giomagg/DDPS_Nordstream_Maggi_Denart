@@ -96,6 +96,16 @@ In order to investigate this, we collected around half a mllion Tweets containin
 
 ### Topic Modelling
 
+#### Community 180 – Light Blue
+
+#### Community 106 – Pink
+
+#### Community 246 – Green
+
+#### Community 1029 – Violet
+
+#### Community 271 – Dark Grey
+
 ## Conclusion
 
 Based on the exploratory analysis we conducted on the Twitter discourse around the Nord Stream sabotage, we can conclude that: 
