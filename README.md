@@ -4,8 +4,11 @@ This repository provides access to the code and the data used for the final proj
 
 The project was developed by Giovanni Maggi and Louis Denart, master candidates in the Digital, New technologies and Public Policy specialisation of the Sciences Po School of Public Affairs. 
 
-Here below you can find a summary of our findings 
+Here we present a summary of our findings. 
 
+## Context of the Study
+
+On September 26th 2022, at around 2am, the Nord Stream 2  pipeline connecting Russia to Germany underwent an explosion which resulted in the failure of the system. Around seven hours later, its sister pipeline Nord Stream 1 underwent the same problems. 
 
 
 
