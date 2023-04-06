@@ -32,7 +32,12 @@ This first hypothesis is derived from the claims made by Russia both in front of
 
 > **H<sub> 2 </sub>: The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.**
 
+Hypothesis number two is derived from the overall suspicion of Russia being behind the attack which has been quite prevalent in the journalistic discourse in many European countries. For some examples see: 
+
 > **H<sub> 3 </sub>: The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.**
+
+This third hypothesis is inferred from the [US intelligence allegations](https://www.reuters.com/world/europe/us-intelligence-suggests-pro-ukrainian-group-sabotaged-nord-stream-pipelines-nyt-2023-03-07/) reviewed by the [New York Times](https://www.nytimes.com/2023/03/07/us/politics/nord-stream-pipeline-sabotage-ukraine.html). It is important to notice that [EU officials](https://www.politico.eu/article/eu-officials-nord-stream-two-pipeline-allegation-ukraine-russia/) distanced themselves from such claims.
+
 
 In addition, building the intuition that different communites discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
 
