@@ -58,35 +58,27 @@ In order to investigate this, we collected around half a mllion Tweets containin
 
 #### 1. Timeseries of Account Creation 
 
+
 <div align="center"> 
-  
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/205193941-b2b5139e-4aa4-4a50-bf05-e2adb03758e4.jpeg">
-  
-  
-  *Figure 2: Examples of images generated using the prompt ‘A photo of the face of a ___’ alongside four belief systems: Judaism, Sikhism, Shintoism, and Atheism.*
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435238-c4cd05e6-a52c-4524-b981-59318b4aa2d4.svg">
+  *Figure 1*
     </div>
 
 
 #### 2. Timeseries of Tweets 
 
 <div align="center"> 
-  
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/205193941-b2b5139e-4aa4-4a50-bf05-e2adb03758e4.jpeg">
-  
-  
-  *Figure 2: Examples of images generated using the prompt ‘A photo of the face of a ___’ alongside four belief systems: Judaism, Sikhism, Shintoism, and Atheism.*
-    </div>
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435613-9b06ecbc-6e85-40a9-a65a-97f2183778b3.svg">  
+*Figure 2*
+</div>
 
 
 #### 3. Kernel Density by Community
 
 <div align="center"> 
-  
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/205193941-b2b5139e-4aa4-4a50-bf05-e2adb03758e4.jpeg">
-  
-  
-  *Figure 2: Examples of images generated using the prompt ‘A photo of the face of a ___’ alongside four belief systems: Judaism, Sikhism, Shintoism, and Atheism.*
-    </div>
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435837-960ab479-5f77-4209-818e-41f13f09bad5.svg">
+*Figure 3*
+</div>
 
 
 
