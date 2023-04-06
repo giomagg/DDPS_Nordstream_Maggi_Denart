@@ -24,14 +24,19 @@ Against this background speculations have soared in the public sphere regarding 
 
 ### Hypothesis
 
-H<sub> 1 </sub> The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.
+Following from the brief qualitative work conducted in preparation to the study – which took into account the international press in order to understand the facts and speculations surrounding the Nord Stream sabotage – we developed three main hypothesis. These concern the topics which we expected to find in the Twitter discourse around the perpetrators of the attack.
 
-H<sub> 2 </sub> The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.
+> H<sub> 1 </sub>: The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.
 
-H<sub> 3 </sub> The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.
+> H<sub> 2 </sub>: The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.
 
-H<sub> 4 </sub> The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively
-high.
+> H<sub> 3 </sub>: The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.
+
+In addition, building the intuition that different communites discuss different topics, with different focuses and different interests – developing different narratives around the same event, we developed a fourth hypothesis. 
+
+> H<sub> 4 </sub>: The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively high.
+
+We also expected this heterogeneity to increase the futher we move away from a community in the retweet social network. 
 
 ### Methodology
 
