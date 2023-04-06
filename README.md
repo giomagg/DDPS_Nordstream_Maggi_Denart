@@ -26,7 +26,7 @@ Our research aims to explore how the game of pointing fingers is reflected in th
 
 > **To what extent are popular rumors about the perpetrator of the Nord Stream pipeline sabotage reflected in the Twitter discourse?**
 
-### Hypothesis
+### Hypotheses
 
 Following from the brief qualitative work conducted in preparation to the study – which took into account the international press in order to understand the facts and speculations surrounding the Nord Stream sabotage – we developed three main hypothesis. These concern the topics which we expected to find in the Twitter discourse around the perpetrators of the attack.
 
@@ -55,6 +55,40 @@ In order to investigate this, we collected around half a mllion Tweets containin
 ## Results and Discussion 
 
 ### Descriptive Statistics
+
+#### 1. Timeseries of Account Creation 
+
+<div align="center"> 
+  
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/205193941-b2b5139e-4aa4-4a50-bf05-e2adb03758e4.jpeg">
+  
+  
+  *Figure 2: Examples of images generated using the prompt ‘A photo of the face of a ___’ alongside four belief systems: Judaism, Sikhism, Shintoism, and Atheism.*
+    </div>
+
+
+#### 2. Timeseries of Tweets 
+
+<div align="center"> 
+  
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/205193941-b2b5139e-4aa4-4a50-bf05-e2adb03758e4.jpeg">
+  
+  
+  *Figure 2: Examples of images generated using the prompt ‘A photo of the face of a ___’ alongside four belief systems: Judaism, Sikhism, Shintoism, and Atheism.*
+    </div>
+
+
+#### 3. Kernel Density by Community
+
+<div align="center"> 
+  
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/205193941-b2b5139e-4aa4-4a50-bf05-e2adb03758e4.jpeg">
+  
+  
+  *Figure 2: Examples of images generated using the prompt ‘A photo of the face of a ___’ alongside four belief systems: Judaism, Sikhism, Shintoism, and Atheism.*
+    </div>
+
+
 
 ### Social Network Analysis
 
