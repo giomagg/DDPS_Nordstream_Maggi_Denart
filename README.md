@@ -6,13 +6,13 @@ This repository provides access to the code and the data used for the final proj
 
 The project was developed by Giovanni Maggi and Louis Denart, master candidates in the Digital, New technologies and Public Policy specialisation of the _Sciences Po School of Public Affairs_. 
 
-Here we present a summary of our findings. 
+Here we present a summary of our study. 
 
 ## Context of the Study
 
 On September 26th 2022, at around 2am, the Nord Stream 2 pipeline connecting Russia to Germany underwent an explosion which resulted in the failure of the system. Around seven hours later, its sister pipeline Nord Stream 1 underwent the same problems. The two resulted in underwater gas leaks in the territorial waters of both Sweden and Denmark around the Bornholm Island (DK). The explosions were immediately recognised on September 27th as intentional sabotage by Sweden, Russia, the European Union (EU), and NATO. While there are evidence to indicate the intentionality of the explosions (found by the Swedish authorities and backed up by German Police investigations), there are no proofs concerning the identities of the perpetetrors, their motives, nor their means. Investigations are being carried on by Sweden, Denmark, Germany, and Russia.
 
-The journalistic coverage of the events has also been 
+The journalistic coverage of the events has been debating the causes of the attack. On September 27th, the German news outlet Der Tegesspiegel claimed that the sabotaged had been the result of targeted attacks by submarines or divers. A couple of days later, on September 29th, CNN reported that Russian submarines were observed at the site of the sabotage in the days preceding the attack. Nevertheless, on November 11th, Wired magazine 
 
 The events come at a crucial point during the Ukrainian war which had already sparked tensions between the Russian Federation and the West (specifically with the EU) on crucial strategic infrastructure and on energy supply. Specifically interesting in this regard is the way in which the war already revived debates around European dependency on Russian natural gas supply – which at the time at the invasion made up the biggest share of gas imports for the EU **REFERENCE ISPI** – which the Krelin weaponised in response to the EU's actions following the invasion of Ukraine **REFERENCE**. Moreover, and interestingly enough, 
 
