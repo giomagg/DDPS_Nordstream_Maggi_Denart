@@ -28,6 +28,8 @@ Following from the brief qualitative work conducted in preparation to the study 
 
 > H<sub> 1 </sub>: The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.
 
+This first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the [EUvDisinfo database](https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date=), an initiative created by the EU External Action Services to track disinformation concerning the Ukrainian war, we found this narrative to be quite prevalent.
+
 > H<sub> 2 </sub>: The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.
 
 > H<sub> 3 </sub>: The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.
