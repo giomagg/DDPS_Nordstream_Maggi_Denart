@@ -24,6 +24,9 @@ Against this background speculations have soared in the public sphere regarding 
 
 ### Hypothesis
 
+H_1 
+
+
 ### Methodology
 
 In order to investigate this, we collected around half a mllion Tweets containing the #NordStream using Twitter API in english and in German starting from the day of the sabotage (29/09/2022) until the date of collection (12/03/2023).
