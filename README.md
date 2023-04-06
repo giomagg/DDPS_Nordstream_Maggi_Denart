@@ -12,7 +12,7 @@ On September 26th 2022, at around 2am, the Nord Stream 2 pipeline connecting Rus
 
 The journalistic coverage of the events has also been 
 
-The events come at a crucial point during the Ukrainian war which had already sparked tensions between the Russian Federation and the West (specifically with the EU) on crucial strategic infrastructure and on energy supply. 
+The events come at a crucial point during the Ukrainian war which had already sparked tensions between the Russian Federation and the West (specifically with the EU) on crucial strategic infrastructure and on energy supply. Specifically interesting in this regard is the way in which the war already revived debates around European dependency on Russian natural gas supply – which at the time at the invasion made up ... of the overall energy production in the EU (with sparks up to ... in countries such as ...) – which the Krelin weaponised in response to the EU's actions following the invasion of Ukraine **REFERENCE**. 
 
 ## Methodology and Research Design
 
