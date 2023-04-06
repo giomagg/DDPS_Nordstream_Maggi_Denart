@@ -24,7 +24,7 @@ Against this background speculations have soared in the public sphere regarding 
 
 ### Hypothesis
 
-H_1 
+H~1~ hasg
 
 
 ### Methodology
