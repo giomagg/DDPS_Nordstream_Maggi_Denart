@@ -14,6 +14,20 @@ The journalistic coverage of the events has also been
 
 The events come at a crucial point during the Ukrainian war which had already sparked tensions between the Russian Federation and the West (specifically with the EU) on crucial strategic infrastructure and on energy supply. 
 
+## Methodology and Research Design
+
+### Research Question 
+
+### Hypothesis
+
+### Methodology
+
+## Results and Discussion 
+
+## Conclusion
+
+
+
 
 
 
