@@ -24,6 +24,12 @@ The events come at a crucial point during the Ukrainian war which had already sp
 
 ## Results and Discussion 
 
+### Descriptive Statistics
+
+### Social Network Analysis
+
+### Topic Modelling
+
 ## Conclusion
 
 
