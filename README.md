@@ -24,8 +24,11 @@ Against this background speculations have soared in the public sphere regarding 
 
 ### Hypothesis
 
-H~1~ hasg
-
+H<sub> 1 </sub> The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.
+H<sub> 2 </sub> The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.
+H<sub> 3 </sub> The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.
+H<sub> 4 </sub> The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively
+high.
 
 ### Methodology
 
