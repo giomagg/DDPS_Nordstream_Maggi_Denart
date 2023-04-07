@@ -99,8 +99,7 @@ In order to investigate this, we collected around half a mllion Tweets containin
 #### Community 180 – Light Blue
 
 <div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596617-4ba124c8-6df5-4871-b646-3524764140ab.png">
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596684-ddfc468a-d73c-411d-aed4-298fa4785be4.png">
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596617-4ba124c8-6df5-4871-b646-3524764140ab.png"> <img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596684-ddfc468a-d73c-411d-aed4-298fa4785be4.png">
 
  ***Figure 5***
 </div>
