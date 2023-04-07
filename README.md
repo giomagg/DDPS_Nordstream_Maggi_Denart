@@ -9,13 +9,16 @@ The project was developed by Giovanni Maggi and Louis Denart, master candidates 
 Here we present a summary of our study. 
 
 ## Table of Contents
-[Context of the Study](#context)
-
-[Methodology and Research Design](#Methods)
-
-[Results and Discussion](#results)
-
-[Conclusion](#conclusion)
+- [Context of the Study](#context)
+- [Methodology and Research Design](#Methods)
+  * [Research Question](#res)
+  * [Hypotheses](#hyp)
+  * [Methodology](#meth)
+- [Results and Discussion](#results)
+  * [Descriptive Statistics](#stats)
+  * [Social Network Analysis](#SNA)
+  * [Topic Modelling](#BERT)
+- [Conclusion](#conclusion)
 
 <a name="context"></a>
 ## Context of the Study
@@ -31,12 +34,14 @@ Against this background speculations have soared in the public sphere regarding 
 <a name="Methods"></a>
 ## Methodology and Research Design
 
+<a name="res"></a>
 ### Research Question 
 
 Our research aims to explore how the game of pointing fingers is reflected in the Twitter debate. Specifically, because of the absence of concluding evidence from any of the investigations which have been carried on since the attack, and building on the highly heterogeneous public debate around the perpetrators of the sabotage, we ask:
 
 > **To what extent are popular rumors about the perpetrator of the Nord Stream pipeline sabotage reflected in the Twitter discourse?**
 
+<a name="hyp"></a>
 ### Hypotheses
 
 Following from the brief qualitative work conducted in preparation to the study – which took into account the international press in order to understand the facts and speculations surrounding the Nord Stream sabotage – we developed three main hypothesis. These concern the topics which we expected to find in the Twitter discourse around the perpetrators of the attack.
@@ -59,6 +64,7 @@ In addition, building the intuition that different communites discuss different 
 
 We also expected the degree of heterogeneity to increase the futher we move away from a community in the retweet social network. What we mean by this is that if two communities are relatively close (i.e., they share many bridges relative to the number of nodes in each of them), then we can expect them to display similar topics while displaying subtle differences. On the other hand, if two communities are relatively distant (i.e., they do not share many bridges relative to the number of nodes in each of them), they will display more substantial differences in the topics and narratives present in each of them.
 
+<a name="meth"></a>
 ### Methodology
 
 In order to investigate this, we collected around half a mllion Tweets containing the #NordStream using Twitter API in english and in German starting from the day of the sabotage (29/09/2022) until the date of collection (12/03/2023).
@@ -66,6 +72,7 @@ In order to investigate this, we collected around half a mllion Tweets containin
 <a name="results"></a>
 ## Results and Discussion 
 
+<a name="stats"></a>
 ### Descriptive Statistics
 
 #### 1. Timeseries of Account Creation 
@@ -96,7 +103,7 @@ In order to investigate this, we collected around half a mllion Tweets containin
 </div>
 
 
-
+<a name="SNA"></a>
 ### Social Network Analysis
 
 <div align="center"> 
@@ -105,7 +112,7 @@ In order to investigate this, we collected around half a mllion Tweets containin
  ***Figure 4***
 </div>
 
-
+<a name="BERT"></a>
 ### Topic Modelling
 
 #### Community 180 – Light Blue
