@@ -8,6 +8,16 @@ The project was developed by Giovanni Maggi and Louis Denart, master candidates 
 
 Here we present a summary of our study. 
 
+## Table of Contents
+[Context of the Study](#context)
+
+[Methodology and Research Design](#Methods)
+
+[Results and Discussion](#results)
+
+[Conclusion](#conclusion)
+
+<a name="context"></a>
 ## Context of the Study
 
 On September 26th 2022, at around 2am, the Nord Stream 2 pipeline connecting Russia to Germany underwent an explosion which resulted in the failure of the system. Around seven hours later, its sister pipeline Nord Stream 1 underwent the same problems. The two resulted in underwater gas leaks in the territorial waters of both Sweden and Denmark around the Bornholm Island (DK). The explosions were immediately recognised on September 27th as intentional sabotage by Sweden, Russia, the European Union (EU), and NATO. While there are evidence to indicate the intentionality of the explosions (found by the Swedish authorities and backed up by German Police investigations), there are no proofs concerning the identities of the perpetetrors, their motives, nor their means. Investigations are being carried on by Sweden, Denmark, Germany, and Russia.
@@ -18,6 +28,7 @@ The Nord Stream gas leaks come at a crucial point during the Ukrainian war which
 
 Against this background speculations have soared in the public sphere regarding the responsible actors for the sabotage. So far this has not resulted in any concluding evidence but has rather remained a game of pointing fingers. Officially, the Russian authorities have taken a strong position, and, on October 1st 2022, they blamed in front of the UN Security Council the United States to be behind the attack. Later on, on October 29th, the Russian Ministry of Defence pointed also to the United Kingdom as a possible perpetrator. Contrarily to Russia, the EU and NATO have yet to take an official positions – although suspicions of a Russian involvement in the sabotage dominated the public sphere in the Western media. Finally, as recently as March 7th, the US intelligence services released a report claiming that the attack was in fact caused by a pro-Ukrainian group. 
 
+<a name="Methods"></a>
 ## Methodology and Research Design
 
 ### Research Question 
@@ -52,6 +63,7 @@ We also expected the degree of heterogeneity to increase the futher we move away
 
 In order to investigate this, we collected around half a mllion Tweets containing the #NordStream using Twitter API in english and in German starting from the day of the sabotage (29/09/2022) until the date of collection (12/03/2023).
 
+<a name="results"></a>
 ## Results and Discussion 
 
 ### Descriptive Statistics
@@ -140,6 +152,7 @@ In order to investigate this, we collected around half a mllion Tweets containin
  ***Figure 9***
 </div>
 
+<a name="conclusion"></a>
 ## Conclusion
 
 Based on the exploratory analysis we conducted on the Twitter discourse around the Nord Stream sabotage, we can conclude that: 
