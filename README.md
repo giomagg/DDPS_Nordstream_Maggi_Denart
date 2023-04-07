@@ -1,6 +1,4 @@
 # Exploring the #NordStream Discourse on Twitter
-### Giovanni Maggi, Louis Denart
-
 
 _Paris, April 6th 2023_
 
