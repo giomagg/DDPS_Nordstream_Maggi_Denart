@@ -98,13 +98,48 @@ In order to investigate this, we collected around half a mllion Tweets containin
 
 #### Community 180 – Light Blue
 
+<div align="center"> 
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596617-4ba124c8-6df5-4871-b646-3524764140ab.png">
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596684-ddfc468a-d73c-411d-aed4-298fa4785be4.png">
+
+ ***Figure 5***
+</div>
+
 #### Community 106 – Pink
+
+<div align="center"> 
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596763-a50b87ce-3e20-456d-96f9-e1c1bdeeceb7.png">
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596824-02c49c7a-e757-4520-a71c-af07ef150ed9.png">
+
+ ***Figure 6***
+</div>
 
 #### Community 246 – Green
 
+<div align="center"> 
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596904-17a9f8fc-5466-41da-8d92-2a4d786a197c.png">
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596975-44eba920-0910-409e-851e-d6593d07ae78.png">
+
+ ***Figure 7***
+</div>
+
 #### Community 1029 – Violet
 
+<div align="center"> 
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230597042-3037a0c8-f5f3-43b4-9a08-0800588d819f.png">
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230597092-5bc9dcdc-5412-40db-a697-3254cb179e70.png">
+
+ ***Figure 8***
+</div>
+
 #### Community 271 – Dark Grey
+
+<div align="center"> 
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230597139-5ccfec18-b228-4971-a874-531c350c87af.png">
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230597185-57342161-9026-482d-927c-6d2359cda7b0.png">
+
+ ***Figure 9***
+</div>
 
 ## Conclusion
 
