@@ -1,5 +1,5 @@
 # Exploring the #NordStream Discourse on Twitter
-
+#### Giovanni Maggi, Louis Denart
 _Paris, April 6th 2023_
 
 This repository provides access to the code and the data used for the final project in the context of the course "Diving in the Digital Public Space" offered by CIVICA in the Spring of 2023 and taught by Prof. Jean-Philippe Cointet (_Sciences Po_), Prof. Marton Karsai (_Central European University_), and Armin Pournaki (_Sciences Po_). 
