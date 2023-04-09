@@ -9,11 +9,11 @@ The project was developed by Giovanni Maggi and Louis Denart, master candidates 
 Here we present a summary of our study. 
 
 ## Table of Contents
-- [Context of the Study](#context)
+- [Introduction](#context)
 - [Methodology and Research Design](#Methods)
   * [Research Question](#res)
   * [Hypotheses](#hyp)
-  * [Data Collection](#meth)
+  * [Data Collection](#mdata)
   * [Methodology](#meth)
 - [Results and Discussion](#results)
   * [Descriptive Statistics](#stats)
@@ -22,7 +22,7 @@ Here we present a summary of our study.
 - [Conclusion](#conclusion)
 
 <a name="context"></a>
-## Context of the Study
+## Introduction
 
 On September 26th 2022, at around 2am, the Nord Stream 2 pipeline connecting Russia to Germany underwent an explosion which resulted in the failure of the system. Around seven hours later, its sister pipeline Nord Stream 1 underwent the same problems. The two resulted in underwater gas leaks in the territorial waters of both Sweden and Denmark around the Bornholm Island (DK). The explosions were immediately recognised on September 27th as intentional sabotage by Sweden, Russia, the European Union (EU), and NATO. While there are evidence to indicate the intentionality of the explosions (found by the Swedish authorities and backed up by German Police investigations), there are no proofs concerning the identities of the perpetetrors, their motives, nor their means. Investigations are being carried on by Sweden, Denmark, Germany, and Russia but have yet to find conclusive evidence.
 
@@ -65,10 +65,20 @@ In addition, building the intuition that different communites discuss different 
 
 We also expected the degree of heterogeneity to increase the futher we move away from a community in the retweet social network. What we mean by this is that if two communities are relatively close (i.e., they share many bridges relative to the number of nodes in each of them), then we can expect them to display similar topics while displaying subtle differences. On the other hand, if two communities are relatively distant (i.e., they do not share many bridges relative to the number of nodes in each of them), they will display more substantial differences in the topics and narratives present in each of them.
 
+
+<a name="data"></a>
+### Data Collection
+
+To analyze the Twitter network around the Nord Stream discourse, we first selected the hashtag that was most commonly used in Tweets associated to the incident: **#NordStream**. Utilizing Twitter’s Research API, we extracted Tweets and related metadata that included the respective hashtag, dating from September 26, 2022 – the day of the Nord Stream sabotage – to March 12, 2023. In total, the data set consisted of 702,243 Tweets. The data set included various attributes such as Tweet ID, Tweet content, time of Tweet creation, user ID, username, time of user creation, as well as information on the receiver of a Tweet (e.g., in the case of Retweets). For the analysis, the data was filtered to only include English and German-language Tweets. As a result, the final dataset consisted in total of 446,099 Tweets across 154,898 accounts.
+
 <a name="meth"></a>
 ### Methodology
 
-In order to investigate this, we collected around half a mllion Tweets containing the #NordStream using Twitter API in english and in German starting from the day of the sabotage (29/09/2022) until the date of collection (12/03/2023).
+In order to answer our research question and the corresponding hypotheses, we employ social network analysis (SNA) in combination with topic modeling. Social network analysis is a method of mapping the interactions (characterized as “edges”) between individuals (characterized as “nodes”) in a social network (UK Home Office, 2016). We opted to deploy this method in order to better understand the structure of the Nord Stream discourse and this distribution of topics, as SNA allows for identifying the composition of a network, as well as key actors and communities. Furthermore, in contrast to more traditional research methods, social network analysis provides a unique perspective on the social interactions and relationships between actors within a network (Hanneman & Riddle, 2005).
+
+We start the social network analysis of the Nord Stream discourse by defining the two main attributes of the network: nodes, which we identify as Twitter users within the Nord Stream network, and edges, which we classify as the interactions (Retweets, Quote Tweets, replies) between said users. Then, we divide the network into communities by calculating modularity with the Louvain method. In social network analysis, modularity is a measure of the strength of division of a network into communities. The Louvain method specifically is a community detection algorithm that iteratively optimizes modularity by hierarchically merging nodes into communities (Blondel et al. 2008).
+
+Having associated Tweets and accounts with a respective community, we proceeded by performing topic modeling to determine the topics within the most prevalent communities. Since there was a significant difference in size between the examined communities, we chose to compute topic models for the communities separately to ensure that we capture relevant small-community topics for which a single topic model may not have been sufficiently fine-grained. Furthermore, it allowed setting different model specifications for the communities, which provided better results due to the heterogeneous community sizes. For the topic modeling, we used a multilingual BERTopic model. Developed by Grootendorst (2022), BERTopic is a topic modeling technique that extracts coherent topics through a modified class-based variation of the term frequency-inverse document frequency (TF-IDF) method. BERTopic has demonstrated to perform particularly well on short-text documents such as Tweets, and is therefore an appropriate choice for the present study. Prior to running the models, the data was cleaned.
 
 <a name="results"></a>
 ## Results and Discussion 
