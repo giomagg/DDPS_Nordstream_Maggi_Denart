@@ -127,14 +127,66 @@ In community № 106, we identified a total of [15 topics](https://user-images.g
  <br><br>
 </div>
 
+In community № 246, we identified a total of [10 topics](https://user-images.githubusercontent.com/119635466/230785758-4a851926-c992-41d0-9baa-f6a827a4509d.png). Here, we determined two overarching topic clusters. The topics within this community were exclusively in English. These mainly included suspecting the US to behind the Nord Stream sabotage (e.g., Topic 7) and views contending that NATO partners would withhold information on the perpetrator (e.g., Topic 8). Moreover, several topics were directly linked to the Irish MEP Mick Wallace. In Figure 4, Tweets exemplary of the two topic clusters are shown.
+
+ ***Figure 4: Example Tweets from community № 246***
+
+ <div align="center"> 
+<img width="1098" alt="Fig_4" src="https://user-images.githubusercontent.com/119635466/230785729-53b2ff0b-3d51-4938-a418-d367548c1128.png">
+ <br><br>
+</div>
+
+In community № 1029, we identified a total of [5 topics](https://user-images.githubusercontent.com/119635466/230785783-b0112ee1-c115-453e-bc24-c1ceb852a4ed.png). Here, we determined three topic clusters. The topics were both in English and in German. As in the prior communities, the suspicion that the US had sabotaged the Nord Stream pipelines was widely reflected in the topics (e.g., Topic 0). The second topic cluster involved views that the spy balloons (or “UFO’s”) over the US were intended to distract from Nord Stream sabotage (Topic 3). The third topic cluster mainly included reports about an anti-war rally that took place in the wake of this year’s Munich Security Conference (Topic 4). In Figure 5, Tweets exemplary of the three topic clusters are shown.
+
+ ***Figure 5: Example Tweets from community № 1029***
+
+ <div align="center"> 
+<img width="1098" alt="Fig_5" src="https://user-images.githubusercontent.com/119635466/230785817-42cffe89-6e63-413a-8643-c41ab1eed458.png">
+ <br><br>
+</div>
+
+In community № 271, we identified a total of [3 topics](https://user-images.githubusercontent.com/119635466/230785863-555b3b46-d1b7-441f-aa46-4f77e1640d89.png). Here, we determined two topic clusters. The topics were both in English and in German. In contrast to prior communities, here a cluster revolved about the perception that Russia was behind the Nord Stream sabotage (e.g., Topic 0). The other topic cluster focused on a conversation EU Commission President Ursula von der Leyen and Norwegian Prime Minister Jonas Støre had in the context of the Nord Stream sabotage (Topic 1). In Figure 6, Tweets exemplary of the two topic clusters are shown.
+
+ ***Figure 6: Example Tweets from community № 271***
+
+ <div align="center"> 
+<img width="1098" alt="Fig_6" src="https://user-images.githubusercontent.com/119635466/230785891-178333fc-0cea-477b-95af-0a5f6de7f787.png">
+ <br><br>
+</div>
+
+In community № 479, we identified a total of [4 topics](https://user-images.githubusercontent.com/119635466/230786029-96d9516f-36c1-42e0-9226-ad72c4a382fb.png). Here, we determined two topic clusters. The topics were exclusively in German. The first topic cluster involves topics related to nuanced journalistic and expert contributions in Germany (e.g., Topic 3). Within the second topic clusters, the environmental impact of the Nord Stream incident is addressed (Topic 2). In Figure 7, Tweets exemplary of the two topic clusters are shown.
+
+ ***Figure 7: Example Tweets from community № 479***
+
+ <div align="center"> 
+<img width="1098" alt="Fig_7" src="https://user-images.githubusercontent.com/119635466/230786050-cc222370-6f82-4244-835b-f43ccfab33ed.png">
+ <br><br>
+</div>
+
+In community № 771, we identified a total of [3 topics](https://user-images.githubusercontent.com/119635466/230786100-6fae49d7-c4d8-4117-b2ee-042e96e9cc4d.png). Here, we determined two topic clusters. The topics were exclusively in English. The first cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included alleged insider information from a US Defense Department source, according to which Joe Biden ordered the Nord Stream sabotage (Topic 0). The second cluster of topics mainly revolved around references to and corresponding speculations about the publication of Seymour Hersh’s “investigative” report (e.g., Topic 1). In Figure 8, Tweets exemplary of the two topic clusters are shown.
+
+ ***Figure 8: Example Tweets from community № 771***
+
+ <div align="center"> 
+<img width="1098" alt="Fig_8" src="https://user-images.githubusercontent.com/119635466/230786154-bddcd77f-b4b4-42d1-8f3c-d5a11f17bb2c.png">
+ <br><br>
+</div>
+
+<p style="text-align: justify;">
+In community № 232, we identified a total of [2 topics](https://user-images.githubusercontent.com/119635466/230786192-b870c447-5f35-4d93-9911-65a4e770567c.png). Here, we determined two topic clusters. The topics were exclusively in English. The first cluster revolves around satirical posts on the Nord Stream sabotage, mixed with conspiracy theories (Topic 0). The second cluster included suspicions after which the US was behind the Nord Stream sabotage (Topic 1). In Figure 9, Tweets exemplary of the two topic clusters are shown.
+ </p>
+
+ ***Figure 9: Example Tweets from community № 232***
+
+ <div align="center"> 
+<img width="1098" alt="Fig_9" src="https://user-images.githubusercontent.com/119635466/230786216-279fd134-6ccf-4977-bfc4-238690001555.png">
+ <br><br>
+</div>
 
 
 
 
 
-
-
- 
  
  
  
