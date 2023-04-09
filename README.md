@@ -83,8 +83,21 @@ Having associated Tweets and accounts with a respective community, we proceeded 
 <a name="results"></a>
 ## Results and Discussion 
 
+Our research results are presented in detail below. First, we introduce our initial findings based on the social network analysis of the Nord Stream discourse. Then, we proceed by examining the results of our topic models. Finally, we triangulate these findings with a descriptive analysis of the Nord Stream discourse to better contextualize our insights before turning to a brief discussion of our digital investigation.
+
 <a name="SNA"></a>
 ### Social Network Analysis
+
+In total, the Nord Stream discourse network consists of 154,898 nodes (representing Twitter users) and 446,099 edges (representing interactions among the users). The network diameter is 21, i.e., the greatest distance between any two nodes in the network is 21 degrees of separation. The average degree of the network is 2.187, indicating that each node had about two connections on average. In contrast, the maximum degree is 2110.
+
+Then, we proceeded to calculate the modularity classes (indicating the communities) within the network. In total, the network was determined to consist of 1366 communities. The modularity score of 0.626 suggests a relatively strong modular structure in the network. The score falls in the higher end of the range (modularity ranges from 0 to 1), indicating that the communities within the network are quite cohesive. This means that there tend to be strong connections within the communities and rather weak connections between them.
+
+The largest community (№ 180) comprises 178,486 Tweets and constitutes 40.0% of the network. The second largest community (№ 106) consists of 90,120 Tweets and comprises 20.2% of the network. The third (№ 246), fourth (№ 1029), and fifth largest (№ 271) communities contain 29,830, 26,485, and 24,455 Tweets, respectively, and represent 6.7%, 5.9 %, and 5.5% of the network. The communities ranked sixth (№ 479), seventh (№ 771), and eighth (№ 232) in terms of size comprise 22,914, 12,130, and 10,303 Tweets, respectively, accounting for 5.1%, 2.7 %, and 2.3% of the network. Together, the eight most prevalent communities nearly represent 90% of the entire Tweet corpus.
+
+Below, in Figure 1, the Nord Stream discourse network is illustrated. Distinct colors denote the communities. In addition, we calculated the PageRank score of each node. PageRank is a measure of importance, which captures the relative importance of a given node based on the number and quality of its connections to other nodes. In this regard, we labeled the 30 accounts with the highest scores according to their Twitter account handle. The higher PageRank score, the larger a node is presented in the graph.
+
+<div align="center"> 
+![Fig_1](https://user-images.githubusercontent.com/119635466/230784286-83a9fc1c-170b-450d-a8ae-470ea7f57519.jpeg)
 
 <div align="center"> 
 <img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230436326-6d44cac2-c9d4-4743-9198-18965ae099e3.jpg">
