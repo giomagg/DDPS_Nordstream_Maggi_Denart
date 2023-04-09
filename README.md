@@ -96,15 +96,9 @@ The largest community (№ 180) comprises 178,486 Tweets and constitutes 40.0% o
 
 Below, in Figure 1, the Nord Stream discourse network is illustrated. Distinct colors denote the communities. In addition, we calculated the PageRank score of each node. PageRank is a measure of importance, which captures the relative importance of a given node based on the number and quality of its connections to other nodes. In this regard, we labeled the 30 accounts with the highest scores according to their Twitter account handle. The higher PageRank score, the larger a node is presented in the graph.
 
-<div align="center"> 
-![Fig_1](https://user-images.githubusercontent.com/119635466/230784286-83a9fc1c-170b-450d-a8ae-470ea7f57519.jpeg)
-
  <div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/119635466/230784286-83a9fc1c-170b-450d-a8ae-470ea7f57519.jpeg">
+<img width="1000" alt="figure 2" src="https://user-images.githubusercontent.com/119635466/230784286-83a9fc1c-170b-450d-a8ae-470ea7f57519.jpeg">
  
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230436326-6d44cac2-c9d4-4743-9198-18965ae099e3.jpg">
-
  ***Figure 4***
 </div>
 
