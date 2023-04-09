@@ -115,6 +115,19 @@ In community № 180, we identified a total of [14 topics](https://user-images.g
 <img width="1098" alt="Fig_2" src="https://user-images.githubusercontent.com/119635466/230785264-18fef2bf-226c-451f-877c-151103382ab7.png">
 </div>
  
+In community № 106, we identified a total of [15 topics](https://user-images.githubusercontent.com/119635466/230785440-0a7f97a1-5cc5-4b38-a7bf-1a91afd0cca6.png). Here, we determined three overarching topic clusters. The topics within this community were almost exclusively in English. Again, the first and most prominent cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included, among others, speculations by public figures (e.g., Topic 9) and references to an interview with US President Biden from February 7, 2022, which some view as proof of US involvement (e.g., Topic 2). The second cluster of topics mainly revolved around references to and corresponding speculations about the publication of Seymour Hersh’s “investigative” report (e.g., Topic 10). The third topic cluster consisted of topics according to which the EU would allegedly not be interested in a genuine investigation of the incident (e.g., Topic 7). In Figure 3, Tweets exemplary of the three topic clusters are shown.
+
+ ***Figure 3: Example Tweets from community № 106***
+
+ <div align="center"> 
+<img width="1098" alt="Fig_3" src="https://user-images.githubusercontent.com/119635466/230785489-3dad8d7a-81c7-4979-99b4-193c2839cce8.png">
+</div>
+
+
+
+
+
+
 
 
  
