@@ -200,7 +200,7 @@ Next, we triangulate these findings with a descriptive analysis of the Nord Stre
  ***Figure 10: Histogram of all Tweets***
 
  <div align="center"> 
-<img width="1098" alt="Fig_10" src="https://user-images.githubusercontent.com/119635466/230787240-05847646-667c-4314-b332-71fca0ef3cd9.svg">
+<img width="1098" alt="Fig_10" src="https://user-images.githubusercontent.com/119635466/230793318-17cb8e7d-e033-46aa-988c-a3ca4b6eac2c.svg">
  <br><br>
 </div>
 
@@ -209,7 +209,7 @@ To explore how the Tweet activity varied among the eight most prevalent communit
  ***Figure 11: Kernel density plot of all Tweets (by community)***
 
  <div align="center"> 
-<img width="1098" alt="Fig_11" src="https://user-images.githubusercontent.com/119635466/230787305-e23b5847-d93d-4c84-b105-d1eec6b64f89.svg">
+<img width="1098" alt="Fig_11" src="https://user-images.githubusercontent.com/119635466/230793346-c76dc620-06ce-4792-b397-3e9204a52ab2.svg">
  <br><br>
 </div>
 
@@ -218,7 +218,7 @@ In addition to examining the evolution and distribution of Tweet activity, we de
  ***Figure 12: Histogram of all account creations***
 
  <div align="center"> 
-<img width="1098" alt="Fig_12" src="https://user-images.githubusercontent.com/119635466/230787360-100c306a-69ff-4642-b701-543584b2818d.svg">
+<img width="1098" alt="Fig_12" src="https://user-images.githubusercontent.com/119635466/230793368-8befeadc-4c55-44f6-a409-936253a8549a.svg">
  <br><br>
 </div>
 
