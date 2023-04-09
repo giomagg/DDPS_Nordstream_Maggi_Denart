@@ -66,7 +66,6 @@ In addition, building the intuition that different communites discuss different 
 
 We also expected the degree of heterogeneity to increase the futher we move away from a community in the retweet social network. What we mean by this is that if two communities are relatively close (i.e., they share many bridges relative to the number of nodes in each of them), then we can expect them to display similar topics while displaying subtle differences. On the other hand, if two communities are relatively distant (i.e., they do not share many bridges relative to the number of nodes in each of them), they will display more substantial differences in the topics and narratives present in each of them.
 
-
 <a name="data"></a>
 ### Data Collection
 
@@ -75,11 +74,13 @@ To analyze the Twitter network around the Nord Stream discourse, we first select
 <a name="meth"></a>
 ### Methodology
 
+<p align="justify">
 In order to answer our research question and the corresponding hypotheses, we employ social network analysis (SNA) in combination with topic modeling. Social network analysis is a method of mapping the interactions (characterized as “edges”) between individuals (characterized as “nodes”) in a social network (UK Home Office, 2016). We opted to deploy this method in order to better understand the structure of the Nord Stream discourse and this distribution of topics, as SNA allows for identifying the composition of a network, as well as key actors and communities. Furthermore, in contrast to more traditional research methods, social network analysis provides a unique perspective on the social interactions and relationships between actors within a network (Hanneman & Riddle, 2005).
 
 We start the social network analysis of the Nord Stream discourse by defining the two main attributes of the network: nodes, which we identify as Twitter users within the Nord Stream network, and edges, which we classify as the interactions (Retweets, Quote Tweets, replies) between said users. Then, we divide the network into communities by calculating modularity with the Louvain method. In social network analysis, modularity is a measure of the strength of division of a network into communities. The Louvain method specifically is a community detection algorithm that iteratively optimizes modularity by hierarchically merging nodes into communities (Blondel et al. 2008).
 
 Having associated Tweets and accounts with a respective community, we proceeded by performing topic modeling to determine the topics within the most prevalent communities. Since there was a significant difference in size between the examined communities, we chose to compute topic models for the communities separately to ensure that we capture relevant small-community topics for which a single topic model may not have been sufficiently fine-grained. Furthermore, it allowed setting different model specifications for the communities, which provided better results due to the heterogeneous community sizes. For the topic modeling, we used a multilingual BERTopic model. Developed by Grootendorst (2022), BERTopic is a topic modeling technique that extracts coherent topics through a modified class-based variation of the term frequency-inverse document frequency (TF-IDF) method. BERTopic has demonstrated to perform particularly well on short-text documents such as Tweets, and is therefore an appropriate choice for the present study. Prior to running the models, the data was cleaned.
+ </p>
 
 <a name="results"></a>
 ## Results and Discussion 
@@ -112,11 +113,9 @@ The graph supports the assumption of a rather decentralized network with distinc
 <a name="BERT"></a>
 ### Topic Modeling
 
-In community № 180, we identified a total of [14 topics](https://user-images.githubusercontent.com/119635466/230784809-8df61907-1978-4efb-bfad-170e23e9ffb3.png). Based on these topics, we interpretively determined three overarching topic clusters. Moreover, as the most prominent actors from the social network analysis already indicated, the topics within this community were nearly exclusively in German. The first cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included, among others, direct allegations by public figures (e.g., Topic 0) and conjectures about the course of events (e.g., Topic 8). The second cluster involves topics related to a recent news report that claimed that “pro-Ukrainian” was behind the Nord Stream sabotage (e.g., Topic 2). A closer manual inspection, however, revealed that the dominant view within these topics was that this story was only meant to distract from the real perpetrator. The third cluster included topics insisting that Russia would be the victim in this matter (e.g., Topic 4). In Figure 2, Tweets exemplary of the three topic clusters are shown.
-
 <p align="justify">
 In community № 180, we identified a total of <a href="https://user-images.githubusercontent.com/119635466/230784809-8df61907-1978-4efb-bfad-170e23e9ffb3.png">14 topics</a>. Based on these topics, we interpretively determined three overarching topic clusters. Moreover, as the most prominent actors from the social network analysis already indicated, the topics within this community were nearly exclusively in German. The first cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included, among others, direct allegations by public figures (e.g., Topic 0) and conjectures about the course of events (e.g., Topic 8). The second cluster involves topics related to a recent news report that claimed that “pro-Ukrainian” was behind the Nord Stream sabotage (e.g., Topic 2). A closer manual inspection, however, revealed that the dominant view within these topics was that this story was only meant to distract from the real perpetrator. The third cluster included topics insisting that Russia would be the victim in this matter (e.g., Topic 4). In Figure 2, Tweets exemplary of the three topic clusters are shown.
- </p>
+</p>
  
  <div align="center"> 
  <b>Figure 2: Example Tweets from community № 180</b>
@@ -128,8 +127,10 @@ In community № 180, we identified a total of <a href="https://user-images.gith
  <br><br>
 </div>
  
-In community № 106, we identified a total of [15 topics](https://user-images.githubusercontent.com/119635466/230785440-0a7f97a1-5cc5-4b38-a7bf-1a91afd0cca6.png). Here, we determined three overarching topic clusters. The topics within this community were almost exclusively in English. Again, the first and most prominent cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included, among others, speculations by public figures (e.g., Topic 9) and references to an interview with US President Biden from February 7, 2022, which some view as proof of US involvement (e.g., Topic 2). The second cluster of topics mainly revolved around references to and corresponding speculations about the publication of Seymour Hersh’s “investigative” report (e.g., Topic 10). The third topic cluster consisted of topics according to which the EU would allegedly not be interested in a genuine investigation of the incident (e.g., Topic 7). In Figure 3, Tweets exemplary of the three topic clusters are shown.
-
+<p align="justify">
+In community № 106, we identified a total of <a href="https://user-images.githubusercontent.com/119635466/230785440-0a7f97a1-5cc5-4b38-a7bf-1a91afd0cca6.png">15 topics</a>. Here, we determined three overarching topic clusters. The topics within this community were almost exclusively in English. Again, the first and most prominent cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included, among others, speculations by public figures (e.g., Topic 9) and references to an interview with US President Biden from February 7, 2022, which some view as proof of US involvement (e.g., Topic 2). The second cluster of topics mainly revolved around references to and corresponding speculations about the publication of Seymour Hersh’s “investigative” report (e.g., Topic 10). The third topic cluster consisted of topics according to which the EU would allegedly not be interested in a genuine investigation of the incident (e.g., Topic 7). In Figure 3, Tweets exemplary of the three topic clusters are shown.
+</p>
+ 
  <div align="center"> 
  <b>Figure 3: Example Tweets from community № 106</b>
  <br><br>
