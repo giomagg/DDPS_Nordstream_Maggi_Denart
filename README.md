@@ -113,7 +113,7 @@ In community № 180, we identified a total of [14 topics](https://user-images.g
  
  <div align="center"> 
  <b>Figure 2: Example Tweets from community № 180</b>
-  <br>
+  <br><br>
 </div>
  
  <div align="center"> 
