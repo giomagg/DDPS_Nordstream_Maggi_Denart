@@ -1,3 +1,6 @@
+```javascript
+// This entire text will appear as a JavaScript code block
+
 # Exploring the #NordStream Discourse on Twitter
 
 _Paris, April 6th 2023_
@@ -179,6 +182,8 @@ Based on the exploratory analysis we conducted on the Twitter discourse around t
 - Although a relatively high number of Tweets discuss the report about an alleged pro-Ukrainian group, it is mostly considered to be a distraction
 - The degree of heterogeneity in the prevalence of popular rumors varies relatively greatly across the communities
 
+```javascript
+// This entire text will appear as a JavaScript code block
 
 
 
