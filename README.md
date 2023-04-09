@@ -124,76 +124,99 @@ In community № 180, we identified a total of [14 topics](https://user-images.g
  <br><br>
 </div>
  
- 
 In community № 106, we identified a total of [15 topics](https://user-images.githubusercontent.com/119635466/230785440-0a7f97a1-5cc5-4b38-a7bf-1a91afd0cca6.png). Here, we determined three overarching topic clusters. The topics within this community were almost exclusively in English. Again, the first and most prominent cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included, among others, speculations by public figures (e.g., Topic 9) and references to an interview with US President Biden from February 7, 2022, which some view as proof of US involvement (e.g., Topic 2). The second cluster of topics mainly revolved around references to and corresponding speculations about the publication of Seymour Hersh’s “investigative” report (e.g., Topic 10). The third topic cluster consisted of topics according to which the EU would allegedly not be interested in a genuine investigation of the incident (e.g., Topic 7). In Figure 3, Tweets exemplary of the three topic clusters are shown.
 
- ***Figure 3: Example Tweets from community № 106***
+ <div align="center"> 
+ <b>Figure 3: Example Tweets from community № 106</b>
+ <br><br>
+</div>
 
  <div align="center"> 
-<img width="1098" alt="Fig_3" src="https://user-images.githubusercontent.com/119635466/230785489-3dad8d7a-81c7-4979-99b4-193c2839cce8.png">
+<img width="600" alt="Fig_3" src="https://user-images.githubusercontent.com/119635466/230785489-3dad8d7a-81c7-4979-99b4-193c2839cce8.png">
  <br><br>
 </div>
 
 In community № 246, we identified a total of [10 topics](https://user-images.githubusercontent.com/119635466/230785758-4a851926-c992-41d0-9baa-f6a827a4509d.png). Here, we determined two overarching topic clusters. The topics within this community were exclusively in English. These mainly included suspecting the US to behind the Nord Stream sabotage (e.g., Topic 7) and views contending that NATO partners would withhold information on the perpetrator (e.g., Topic 8). Moreover, several topics were directly linked to the Irish MEP Mick Wallace. In Figure 4, Tweets exemplary of the two topic clusters are shown.
-
- ***Figure 4: Example Tweets from community № 246***
+ 
+ <div align="center"> 
+ <b>Figure 4: Example Tweets from community № 246</b>
+ <br><br>
+</div>
 
  <div align="center"> 
-<img width="1098" alt="Fig_4" src="https://user-images.githubusercontent.com/119635466/230785729-53b2ff0b-3d51-4938-a418-d367548c1128.png">
+<img width="600" alt="Fig_4" src="https://user-images.githubusercontent.com/119635466/230785729-53b2ff0b-3d51-4938-a418-d367548c1128.png">
  <br><br>
 </div>
 
 In community № 1029, we identified a total of [5 topics](https://user-images.githubusercontent.com/119635466/230785783-b0112ee1-c115-453e-bc24-c1ceb852a4ed.png). Here, we determined three topic clusters. The topics were both in English and in German. As in the prior communities, the suspicion that the US had sabotaged the Nord Stream pipelines was widely reflected in the topics (e.g., Topic 0). The second topic cluster involved views that the spy balloons (or “UFO’s”) over the US were intended to distract from Nord Stream sabotage (Topic 3). The third topic cluster mainly included reports about an anti-war rally that took place in the wake of this year’s Munich Security Conference (Topic 4). In Figure 5, Tweets exemplary of the three topic clusters are shown.
 
- ***Figure 5: Example Tweets from community № 1029***
+ <div align="center"> 
+ <b>Figure 5: Example Tweets from community № 1029</b>
+ <br><br>
+</div>
 
  <div align="center"> 
-<img width="1098" alt="Fig_5" src="https://user-images.githubusercontent.com/119635466/230785817-42cffe89-6e63-413a-8643-c41ab1eed458.png">
+<img width="600" alt="Fig_5" src="https://user-images.githubusercontent.com/119635466/230785817-42cffe89-6e63-413a-8643-c41ab1eed458.png">
  <br><br>
 </div>
 
 In community № 271, we identified a total of [3 topics](https://user-images.githubusercontent.com/119635466/230785863-555b3b46-d1b7-441f-aa46-4f77e1640d89.png). Here, we determined two topic clusters. The topics were both in English and in German. In contrast to prior communities, here a cluster revolved about the perception that Russia was behind the Nord Stream sabotage (e.g., Topic 0). The other topic cluster focused on a conversation EU Commission President Ursula von der Leyen and Norwegian Prime Minister Jonas Støre had in the context of the Nord Stream sabotage (Topic 1). In Figure 6, Tweets exemplary of the two topic clusters are shown.
-
- ***Figure 6: Example Tweets from community № 271***
+ 
+ <div align="center"> 
+ <b>Figure 6: Example Tweets from community № 271</b>
+ <br><br>
+</div>
 
  <div align="center"> 
-<img width="1098" alt="Fig_6" src="https://user-images.githubusercontent.com/119635466/230785891-178333fc-0cea-477b-95af-0a5f6de7f787.png">
+<img width="600" alt="Fig_6" src="https://user-images.githubusercontent.com/119635466/230785891-178333fc-0cea-477b-95af-0a5f6de7f787.png">
  <br><br>
 </div>
 
 In community № 479, we identified a total of [4 topics](https://user-images.githubusercontent.com/119635466/230786029-96d9516f-36c1-42e0-9226-ad72c4a382fb.png). Here, we determined two topic clusters. The topics were exclusively in German. The first topic cluster involves topics related to nuanced journalistic and expert contributions in Germany (e.g., Topic 3). Within the second topic clusters, the environmental impact of the Nord Stream incident is addressed (Topic 2). In Figure 7, Tweets exemplary of the two topic clusters are shown.
 
- ***Figure 7: Example Tweets from community № 479***
+ <div align="center"> 
+ <b>Figure 7: Example Tweets from community № 479</b>
+ <br><br>
+</div>
 
  <div align="center"> 
-<img width="1098" alt="Fig_7" src="https://user-images.githubusercontent.com/119635466/230786050-cc222370-6f82-4244-835b-f43ccfab33ed.png">
+<img width="600" alt="Fig_7" src="https://user-images.githubusercontent.com/119635466/230786050-cc222370-6f82-4244-835b-f43ccfab33ed.png">
  <br><br>
 </div>
 
 In community № 771, we identified a total of [3 topics](https://user-images.githubusercontent.com/119635466/230786100-6fae49d7-c4d8-4117-b2ee-042e96e9cc4d.png). Here, we determined two topic clusters. The topics were exclusively in English. The first cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included alleged insider information from a US Defense Department source, according to which Joe Biden ordered the Nord Stream sabotage (Topic 0). The second cluster of topics mainly revolved around references to and corresponding speculations about the publication of Seymour Hersh’s “investigative” report (e.g., Topic 1). In Figure 8, Tweets exemplary of the two topic clusters are shown.
 
- ***Figure 8: Example Tweets from community № 771***
+ <div align="center"> 
+ <b>Figure 8: Example Tweets from community № 771</b>
+ <br><br>
+</div>
 
  <div align="center"> 
-<img width="1098" alt="Fig_8" src="https://user-images.githubusercontent.com/119635466/230786154-bddcd77f-b4b4-42d1-8f3c-d5a11f17bb2c.png">
+<img width="600" alt="Fig_8" src="https://user-images.githubusercontent.com/119635466/230786154-bddcd77f-b4b4-42d1-8f3c-d5a11f17bb2c.png">
  <br><br>
 </div>
 
 In community № 232, we identified a total of [2 topics](https://user-images.githubusercontent.com/119635466/230786192-b870c447-5f35-4d93-9911-65a4e770567c.png). Here, we determined two topic clusters. The topics were exclusively in English. The first cluster revolves around satirical posts on the Nord Stream sabotage, mixed with conspiracy theories (Topic 0). The second cluster included suspicions after which the US was behind the Nord Stream sabotage (Topic 1). In Figure 9, Tweets exemplary of the two topic clusters are shown.
-
- ***Figure 9: Example Tweets from community № 232***
+ 
+ <div align="center"> 
+ <b>Figure 9: Example Tweets from community № 232</b>
+ <br><br>
+</div>
 
  <div align="center"> 
-<img width="1098" alt="Fig_9" src="https://user-images.githubusercontent.com/119635466/230786216-279fd134-6ccf-4977-bfc4-238690001555.png">
+<img width="600" alt="Fig_9" src="https://user-images.githubusercontent.com/119635466/230786216-279fd134-6ccf-4977-bfc4-238690001555.png">
  <br><br>
 </div>
 
 In Table 1, a comparative overview of the topic clusters across the most prevalent communities is presented.
-
- ***Table 1: Overview of the topic clusters across communities***
+ 
+ <div align="center"> 
+ <b>Table 1: Overview of the topic clusters across communities</b>
+ <br><br>
+</div>
 
  <div align="center"> 
-<img width="801" alt="Table_1" src="https://user-images.githubusercontent.com/119635466/230786980-7eac44b0-64ee-4ff4-a79f-87a19e06eba6.png">
+<img width="600" alt="Table_1" src="https://user-images.githubusercontent.com/119635466/230786980-7eac44b0-64ee-4ff4-a79f-87a19e06eba6.png">
  <br><br>
 </div>
 
@@ -201,9 +224,11 @@ In Table 1, a comparative overview of the topic clusters across the most prevale
 ### Descriptive Analysis
 
 Next, we triangulate these findings with a descriptive analysis of the Nord Stream discourse. Figure 10 shows the development of Tweets related to Nord Stream since the day of the sabotage on September 26, 2022 until March 12, 2023. We can observe that the discourse reached its first and highest peak only days after the incident before decreasing to a level of a few thousand Tweets per day. Another moderate yet suspicious peak happened in mid-December 2022. Manual inspection of the data showed that this peak was apparently due to a viral speech MEP Mick Wallace gave in the European Parliament, in which he hinted that the US was behind the sabotage of Nord Stream. Then, after the debate continued for a few months on a rather low level, it gained renewed attention after American investigative journalist Seymour Hersh published an article on February 8, 2023, claiming that the US had carried out the sabotage in a covert sea operation. Only a month later, a German journalists' network released an investigation after which a "pro-Ukrainian" group was behind the sabotage, drawing a similar level of attention.
-
-
- ***Figure 10: Histogram of all Tweets***
+ 
+ <div align="center"> 
+ <b>Figure 10: Histogram of all Tweets</b>
+ <br><br>
+</div>
 
  <div align="center"> 
 <img width="1098" alt="Fig_10" src="https://user-images.githubusercontent.com/119635466/230793318-17cb8e7d-e033-46aa-988c-a3ca4b6eac2c.svg">
@@ -212,7 +237,10 @@ Next, we triangulate these findings with a descriptive analysis of the Nord Stre
 
 To explore how the Tweet activity varied among the eight most prevalent communities, we next chose to determine the respective kernel density. A kernel density plot is a graphical representation of the distribution of a data set. It is similar to a histogram, but rather than using discrete bins to show the distribution of the data, it uses a smooth curve to estimate the density of the data at different points. The community curves indicate how densely distributed the Tweet activity of a given community is, regardless of the absolute number of Tweets by that community. The higher a curve is at a particular point, the more concentrated the Tweet activity of a given community is. In Figure 11, the respective kernel density estimation of the eight most prevalent communities over the entire period is presented. The legend shows the community labels. Here, we can observe that community № 232, which revolved around a conspiracy theory page (@EcommunistForum), was concentrated almost exclusively around the days of the sabotage. Moreover, we receive confirmation that indeed the community around Mick Wallace (№ 246) caused the moderate peak in mid-December. Furthermore, we find that community № 271, which suspected Russia to be behind the sabotage, was rather concentrated around the days of the sabotage and barely prevalent afterward. In addition, we can observe that community № 771 and 1029 were quite concentrated in February 2023. This makes sense since the corresponding topics were dominated by events that occurred at that time (e.g., the publication of Seymour Hersh’s report, the discovery of the spy balloons, and the anti-war rally during the Munich Security Conference). The remaining communities, in contrast, appear to have been distributed rather evenly over the observation period.
 
- ***Figure 11: Kernel density plot of all Tweets (by community)***
+ <div align="center"> 
+ <b>Figure 11: Kernel density plot of all Tweets (by community)</b>
+ <br><br>
+</div>
 
  <div align="center"> 
 <img width="1098" alt="Fig_11" src="https://user-images.githubusercontent.com/119635466/230793346-c76dc620-06ce-4792-b397-3e9204a52ab2.svg">
@@ -221,7 +249,10 @@ To explore how the Tweet activity varied among the eight most prevalent communit
 
 In addition to examining the evolution and distribution of Tweet activity, we determined the points in time when the accounts involved were created. Figure 12 shows this evolution over time. The first account associated with Tweets from our data set was created on August 30, 2006, the most recent account was created on March 11, 2023. Interestingly, 25% of all associated accounts (about 38,724) were created after September 28, 2021. Moreover, we can observe to extreme peaks around April 26 and October 28, 2022. Yet, we were not able to link these to events or developments related to the Nord Stream sabotage. However, we could determine that Tweets originating from the accounts created on these dates were predominantly linked to the communities № 180, 1029, 106 and 771.
 
- ***Figure 12: Histogram of all account creations***
+ <div align="center"> 
+ <b>Figure 12: Histogram of all account creations</b>
+ <br><br>
+</div>
 
  <div align="center"> 
 <img width="1098" alt="Fig_12" src="https://user-images.githubusercontent.com/119635466/230793368-8befeadc-4c55-44f6-a409-936253a8549a.svg">
@@ -230,7 +261,10 @@ In addition to examining the evolution and distribution of Tweet activity, we de
 
 Based on our findings, we return to our network graph, which we have complemented accordingly. Figure 13 illustrates the most prevalent communities, which we have labeled according to our overall analysis.
 
- ***Figure 13: Nord Stream discourse network with community labels***
+ <div align="center"> 
+ <b>Figure 13: Nord Stream discourse network with community labels</b>
+ <br><br>
+</div>
 
  <div align="center"> 
 <img width="1098" alt="Fig_13" src="https://user-images.githubusercontent.com/119635466/230787419-7c6de49a-3670-4943-98df-17fdf6026520.jpeg">
