@@ -9,7 +9,7 @@ The project was developed by Giovanni Maggi and Louis Denart, master candidates 
 Here we present a summary of our study. 
 
 ## Table of Contents
-- [1. Introduction](#context)
+- [Introduction](#context)
 - [Methodology and Research Design](#Methods)
   * [Research Question](#res)
   * [Hypotheses](#hyp)
