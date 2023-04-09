@@ -13,6 +13,7 @@ Here we present a summary of our study.
 - [Methodology and Research Design](#Methods)
   * [Research Question](#res)
   * [Hypotheses](#hyp)
+  * [Data Collection](#meth)
   * [Methodology](#meth)
 - [Results and Discussion](#results)
   * [Descriptive Statistics](#stats)
