@@ -181,6 +181,16 @@ In community № 232, we identified a total of [2 topics](https://user-images.gi
  <br><br>
 </div>
 
+In Table 1, a comparative overview of the topic clusters across the most prevalent communities is presented.
+
+ ***Table 1: Overview of the topic clusters across communities***
+
+ <div align="center"> 
+<img width="1098" alt="Table_1" src="https://user-images.githubusercontent.com/119635466/230786980-7eac44b0-64ee-4ff4-a79f-87a19e06eba6.png">
+ <br><br>
+</div>
+
+<img width="801" alt="Table_1" src="https://user-images.githubusercontent.com/119635466/230786980-7eac44b0-64ee-4ff4-a79f-87a19e06eba6.png">
 
 
 
