@@ -69,35 +69,51 @@ We also expected the degree of heterogeneity to increase the futher we move away
 <a name="data"></a>
 ### Data Collection
 
+<p align="justify">
 To analyze the Twitter network around the Nord Stream discourse, we first selected the hashtag that was most commonly used in Tweets associated to the incident: **#NordStream**. Utilizing Twitter’s Research API, we extracted Tweets and related metadata that included the respective hashtag, dating from September 26, 2022 – the day of the Nord Stream sabotage – to March 12, 2023. In total, the data set consisted of 702,243 Tweets. The data set included various attributes such as Tweet ID, Tweet content, time of Tweet creation, user ID, username, time of user creation, as well as information on the receiver of a Tweet (e.g., in the case of Retweets). For the analysis, the data was filtered to only include English and German-language Tweets. As a result, the final dataset consisted in total of 446,099 Tweets across 154,898 accounts.
+</p>
 
 <a name="meth"></a>
 ### Methodology
 
 <p align="justify">
 In order to answer our research question and the corresponding hypotheses, we employ social network analysis (SNA) in combination with topic modeling. Social network analysis is a method of mapping the interactions (characterized as “edges”) between individuals (characterized as “nodes”) in a social network (UK Home Office, 2016). We opted to deploy this method in order to better understand the structure of the Nord Stream discourse and this distribution of topics, as SNA allows for identifying the composition of a network, as well as key actors and communities. Furthermore, in contrast to more traditional research methods, social network analysis provides a unique perspective on the social interactions and relationships between actors within a network (Hanneman & Riddle, 2005).
+</p>
 
+<p align="justify">
 We start the social network analysis of the Nord Stream discourse by defining the two main attributes of the network: nodes, which we identify as Twitter users within the Nord Stream network, and edges, which we classify as the interactions (Retweets, Quote Tweets, replies) between said users. Then, we divide the network into communities by calculating modularity with the Louvain method. In social network analysis, modularity is a measure of the strength of division of a network into communities. The Louvain method specifically is a community detection algorithm that iteratively optimizes modularity by hierarchically merging nodes into communities (Blondel et al. 2008).
+</p>
 
+<p align="justify">
 Having associated Tweets and accounts with a respective community, we proceeded by performing topic modeling to determine the topics within the most prevalent communities. Since there was a significant difference in size between the examined communities, we chose to compute topic models for the communities separately to ensure that we capture relevant small-community topics for which a single topic model may not have been sufficiently fine-grained. Furthermore, it allowed setting different model specifications for the communities, which provided better results due to the heterogeneous community sizes. For the topic modeling, we used a multilingual BERTopic model. Developed by Grootendorst (2022), BERTopic is a topic modeling technique that extracts coherent topics through a modified class-based variation of the term frequency-inverse document frequency (TF-IDF) method. BERTopic has demonstrated to perform particularly well on short-text documents such as Tweets, and is therefore an appropriate choice for the present study. Prior to running the models, the data was cleaned.
  </p>
 
 <a name="results"></a>
 ## Results and Discussion 
 
+<p align="justify">
 Our research results are presented in detail below. First, we introduce our initial findings based on the social network analysis of the Nord Stream discourse. Then, we proceed by examining the results of our topic models. Finally, we triangulate these findings with a descriptive analysis of the Nord Stream discourse to better contextualize our insights before turning to a brief discussion of our digital investigation.
-
+</p>
+ 
 <a name="SNA"></a>
 ### Social Network Analysis
 
+<p align="justify">
 In total, the Nord Stream discourse network consists of 154,898 nodes (representing Twitter users) and 446,099 edges (representing interactions among the users). The network diameter is 21, i.e., the greatest distance between any two nodes in the network is 21 degrees of separation. The average degree of the network is 2.187, indicating that each node had about two connections on average. In contrast, the maximum degree is 2110.
-
+</p>
+ 
+<p align="justify">
 Then, we proceeded to calculate the modularity classes (indicating the communities) within the network. In total, the network was determined to consist of 1366 communities. The modularity score of 0.626 suggests a relatively strong modular structure in the network. The score falls in the higher end of the range (modularity ranges from 0 to 1), indicating that the communities within the network are quite cohesive. This means that there tend to be strong connections within the communities and rather weak connections between them.
-
+</p>
+ 
+<p align="justify">
 The largest community (№ 180) comprises 178,486 Tweets and constitutes 40.0% of the network. The second largest community (№ 106) consists of 90,120 Tweets and comprises 20.2% of the network. The third (№ 246), fourth (№ 1029), and fifth largest (№ 271) communities contain 29,830, 26,485, and 24,455 Tweets, respectively, and represent 6.7%, 5.9 %, and 5.5% of the network. The communities ranked sixth (№ 479), seventh (№ 771), and eighth (№ 232) in terms of size comprise 22,914, 12,130, and 10,303 Tweets, respectively, accounting for 5.1%, 2.7 %, and 2.3% of the network. Together, the eight most prevalent communities nearly represent 90% of the entire Tweet corpus.
-
+</p>
+ 
+<p align="justify"> 
 Below, in Figure 1, the Nord Stream discourse network is illustrated. Distinct colors denote the communities. In addition, we calculated the PageRank score of each node. PageRank is a measure of importance, which captures the relative importance of a given node based on the number and quality of its connections to other nodes. In this regard, we labeled the 30 accounts with the highest scores according to their Twitter account handle. The higher PageRank score, the larger a node is presented in the graph.
-
+</p>
+ 
   <div align="center"> 
  <b>Figure 1: Nord Stream discourse network</b>
  <br><br>
@@ -107,15 +123,17 @@ Below, in Figure 1, the Nord Stream discourse network is illustrated. Distinct c
 <img width="1098" alt="Fig_1" src="https://user-images.githubusercontent.com/119635466/230784286-83a9fc1c-170b-450d-a8ae-470ea7f57519.jpeg">
  <br><br>
 </div>
- 
-The graph supports the assumption of a rather decentralized network with distinct communities. The largest community (№ 180) is denoted in blue. Among the most important nodes in this community are German far-left parliamentarian Sahra Wagenknecht (@SWagenknecht) and Alice Weidel (@Alice_Weidel), German parliamentarian leader of the German far-right populist party, AfD. The second biggest community (№ 106) is denoted in violet and revolves around several Russian government organizations such as the Russian Ministry of Foreign Affairs (@mfa_russia), the Russian Embassy to the United Kingdom (@RussianEmbassy), the Permanent Mission of Russia to the United Nations (@RussianUN), the Russian Embassy to the United States (@RusEmbUSA), and Russian Deputy Permanent Representative to the United Nations, Dmitry Polyanskiy (@Dpol_un). Moreover, we find numerous pro-Kremlin journalists and pages to be prominent actors within this community (e.g., @sahouraxo, @Consortiumnews, @afshinrattansi). German Far-left parliamentarian Sevim Dağdelen (@SevimDagdelen) is also a key actor and seems to be a link between the blue and violet communities. In general, community № 106 appears to be connected to most other communities. The third biggest community (№ 246) is denoted in green and features in particular the Irish far-left MEPs Mick Wallace (@wallacemick) and Clare Daly (@ClareDalyMEP). The fourth biggest community (№ 1029) is denoted in purple and considerably overlaps with community № 106. It includes, for example, the pro-Kremlin journalist Aaron Maté (@aaronjmate). The fifth biggest community (№ 271) is denoted in dark grey. It seemingly encompasses mostly pro-Ukrainian/anti-Kremlin accounts (e.g., @Tendar) as well as EU Commission President Ursula von der Leyen (@vonderleyen) and Norwegian Prime Minister Jonas Støre (@jonasgahrstore). The sixth largest community (№ 479) is denoted in red. The most prominent actors in this community are predominantly German-language journalists (e.g., @JZirm), news pages (e.g., @tagesschau) and civil society actors (e.g., @jakluge). The seventh largest community (№ 771) is denoted in orange and features prominent American conspiracy theorists (e.g., @JohnBasham) and pages (e.g., @KanekoaTheGreat). Finally, the eights largest community (№ 232) is denoted in turquoise and revolves around a conspiracy theory page (@EcommunistForum). 
+
+<p align="justify">
+The graph supports the assumption of a rather decentralized network with distinct communities. The largest community (№ 180) is denoted in blue. Among the most important nodes in this community are German far-left parliamentarian Sahra Wagenknecht (@SWagenknecht) and Alice Weidel (@Alice_Weidel), German parliamentarian leader of the German far-right populist party, AfD. The second biggest community (№ 106) is denoted in violet and revolves around several Russian government organizations such as the Russian Ministry of Foreign Affairs (@mfa_russia), the Russian Embassy to the United Kingdom (@RussianEmbassy), the Permanent Mission of Russia to the United Nations (@RussianUN), the Russian Embassy to the United States (@RusEmbUSA), and Russian Deputy Permanent Representative to the United Nations, Dmitry Polyanskiy (@Dpol_un). Moreover, we find numerous pro-Kremlin journalists and pages to be prominent actors within this community (e.g., @sahouraxo, @Consortiumnews, @afshinrattansi). German Far-left parliamentarian Sevim Dağdelen (@SevimDagdelen) is also a key actor and seems to be a link between the blue and violet communities. In general, community № 106 appears to be connected to most other communities. The third biggest community (№ 246) is denoted in green and features in particular the Irish far-left MEPs Mick Wallace (@wallacemick) and Clare Daly (@ClareDalyMEP). The fourth biggest community (№ 1029) is denoted in purple and considerably overlaps with community № 106. It includes, for example, the pro-Kremlin journalist Aaron Maté (@aaronjmate). The fifth biggest community (№ 271) is denoted in dark grey. It seemingly encompasses mostly pro-Ukrainian/anti-Kremlin accounts (e.g., @Tendar) as well as EU Commission President Ursula von der Leyen (@vonderleyen) and Norwegian Prime Minister Jonas Støre (@jonasgahrstore). The sixth largest community (№ 479) is denoted in red. The most prominent actors in this community are predominantly German-language journalists (e.g., @JZirm), news pages (e.g., @tagesschau) and civil society actors (e.g., @jakluge). The seventh largest community (№ 771) is denoted in orange and features prominent American conspiracy theorists (e.g., @JohnBasham) and pages (e.g., @KanekoaTheGreat). Finally, the eights largest community (№ 232) is denoted in turquoise and revolves around a conspiracy theory page (@EcommunistForum).
+</p> 
  
 <a name="BERT"></a>
 ### Topic Modeling
 
-<p align="justify">
+
 In community № 180, we identified a total of <a href="https://user-images.githubusercontent.com/119635466/230784809-8df61907-1978-4efb-bfad-170e23e9ffb3.png">14 topics</a>. Based on these topics, we interpretively determined three overarching topic clusters. Moreover, as the most prominent actors from the social network analysis already indicated, the topics within this community were nearly exclusively in German. The first cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included, among others, direct allegations by public figures (e.g., Topic 0) and conjectures about the course of events (e.g., Topic 8). The second cluster involves topics related to a recent news report that claimed that “pro-Ukrainian” was behind the Nord Stream sabotage (e.g., Topic 2). A closer manual inspection, however, revealed that the dominant view within these topics was that this story was only meant to distract from the real perpetrator. The third cluster included topics insisting that Russia would be the victim in this matter (e.g., Topic 4). In Figure 2, Tweets exemplary of the three topic clusters are shown.
-</p>
+
  
  <div align="center"> 
  <b>Figure 2: Example Tweets from community № 180</b>
