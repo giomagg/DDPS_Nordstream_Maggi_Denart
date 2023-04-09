@@ -103,7 +103,7 @@ Below, in Figure 1, the Nord Stream discourse network is illustrated. Distinct c
 </div>
 
  <div align="center"> 
-<img width="1097" alt="Fig_1" src="https://user-images.githubusercontent.com/119635466/230784286-83a9fc1c-170b-450d-a8ae-470ea7f57519.jpeg">
+<img width="1098" alt="Fig_1" src="https://user-images.githubusercontent.com/119635466/230784286-83a9fc1c-170b-450d-a8ae-470ea7f57519.jpeg">
  <br><br>
 </div>
  
