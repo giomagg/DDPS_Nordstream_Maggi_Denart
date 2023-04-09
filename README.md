@@ -20,6 +20,7 @@ Here we present a summary of our study.
   * [Topic Modeling](#BERT)
   * [Descriptive Analysis](#stats)
 - [Conclusion](#conclusion)
+- [References](#ref)
 
 <a name="context"></a>
 ## Introduction
@@ -186,92 +187,53 @@ In Table 1, a comparative overview of the topic clusters across the most prevale
  ***Table 1: Overview of the topic clusters across communities***
 
  <div align="center"> 
-<img width="1098" alt="Table_1" src="https://user-images.githubusercontent.com/119635466/230786980-7eac44b0-64ee-4ff4-a79f-87a19e06eba6.png">
+<img width="801" alt="Table_1" src="https://user-images.githubusercontent.com/119635466/230786980-7eac44b0-64ee-4ff4-a79f-87a19e06eba6.png">
  <br><br>
 </div>
 
-<img width="801" alt="Table_1" src="https://user-images.githubusercontent.com/119635466/230786980-7eac44b0-64ee-4ff4-a79f-87a19e06eba6.png">
-
-
-
-
- 
- 
- 
- 
-#### Community 180 – Light Blue
-
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596617-4ba124c8-6df5-4871-b646-3524764140ab.png"> <img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596684-ddfc468a-d73c-411d-aed4-298fa4785be4.png">
-
- ***Figure 5***
-</div>
-
-#### Community 106 – Pink
-
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596763-a50b87ce-3e20-456d-96f9-e1c1bdeeceb7.png">
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596824-02c49c7a-e757-4520-a71c-af07ef150ed9.png">
-
- ***Figure 6***
-</div>
-
-#### Community 246 – Green
-
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596904-17a9f8fc-5466-41da-8d92-2a4d786a197c.png">
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230596975-44eba920-0910-409e-851e-d6593d07ae78.png">
-
- ***Figure 7***
-</div>
-
-#### Community 1029 – Violet
-
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230597042-3037a0c8-f5f3-43b4-9a08-0800588d819f.png">
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230597092-5bc9dcdc-5412-40db-a697-3254cb179e70.png">
-
- ***Figure 8***
-</div>
-
-#### Community 271 – Dark Grey
-
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230597139-5ccfec18-b228-4971-a874-531c350c87af.png">
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230597185-57342161-9026-482d-927c-6d2359cda7b0.png">
-
- ***Figure 9***
-</div>
-
 <a name="stats"></a>
-### Descriptive Statistics
+### Descriptive Analysis
 
-#### 1. Timeseries of Account Creation 
-
-
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435238-c4cd05e6-a52c-4524-b981-59318b4aa2d4.svg">
- 
- ***Figure 1***
-    </div>
+Next, we triangulate these findings with a descriptive analysis of the Nord Stream discourse. Figure 10 shows the development of Tweets related to Nord Stream since the day of the sabotage on September 26, 2022 until March 12, 2023. We can observe that the discourse reached its first and highest peak only days after the incident before decreasing to a level of a few thousand Tweets per day. Another moderate yet suspicious peak happened in mid-December 2022. Manual inspection of the data showed that this peak was apparently due to a viral speech MEP Mick Wallace gave in the European Parliament, in which he hinted that the US was behind the sabotage of Nord Stream. Then, after the debate continued for a few months on a rather low level, it gained renewed attention after American investigative journalist Seymour Hersh published an article on February 8, 2023, claiming that the US had carried out the sabotage in a covert sea operation. Only a month later, a German journalists' network released an investigation after which a "pro-Ukrainian" group was behind the sabotage, drawing a similar level of attention.
 
 
-#### 2. Timeseries of Tweets 
+ ***Figure 10: Histogram of all Tweets***
 
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435613-9b06ecbc-6e85-40a9-a65a-97f2183778b3.svg">  
-
- ***Figure 2***
+ <div align="center"> 
+<img width="1098" alt="Fig_10" src="https://user-images.githubusercontent.com/119635466/230787240-05847646-667c-4314-b332-71fca0ef3cd9.svg">
+ <br><br>
 </div>
 
+To explore how the Tweet activity varied among the eight most prevalent communities, we next chose to determine the respective kernel density. A kernel density plot is a graphical representation of the distribution of a data set. It is similar to a histogram, but rather than using discrete bins to show the distribution of the data, it uses a smooth curve to estimate the density of the data at different points. The community curves indicate how densely distributed the Tweet activity of a given community is, regardless of the absolute number of Tweets by that community. The higher a curve is at a particular point, the more concentrated the Tweet activity of a given community is. In Figure 11, the respective kernel density estimation of the eight most prevalent communities over the entire period is presented. The legend shows the community labels. Here, we can observe that community № 232, which revolved around a conspiracy theory page (@EcommunistForum), was concentrated almost exclusively around the days of the sabotage. Moreover, we receive confirmation that indeed the community around Mick Wallace (№ 246) caused the moderate peak in mid-December. Furthermore, we find that community № 271, which suspected Russia to be behind the sabotage, was rather concentrated around the days of the sabotage and barely prevalent afterward. In addition, we can observe that community № 771 and 1029 were quite concentrated in February 2023. This makes sense since the corresponding topics were dominated by events that occurred at that time (e.g., the publication of Seymour Hersh’s report, the discovery of the spy balloons, and the anti-war rally during the Munich Security Conference). The remaining communities, in contrast, appear to have been distributed rather evenly over the observation period.
 
-#### 3. Kernel Density by Community
+ ***Figure 11: Kernel density plot of all Tweets (by community)***
 
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435837-960ab479-5f77-4209-818e-41f13f09bad5.svg">
-
- ***Figure 3***
+ <div align="center"> 
+<img width="1098" alt="Fig_11" src="https://user-images.githubusercontent.com/119635466/230787305-e23b5847-d93d-4c84-b105-d1eec6b64f89.svg">
+ <br><br>
 </div>
+
+In addition to examining the evolution and distribution of Tweet activity, we determined the points in time when the accounts involved were created. Figure 12 shows this evolution over time. The first account associated with Tweets from our data set was created on August 30, 2006, the most recent account was created on March 11, 2023. Interestingly, 25% of all associated accounts (about 38,724) were created after September 28, 2021. Moreover, we can observe to extreme peaks around April 26 and October 28, 2022. Yet, we were not able to link these to events or developments related to the Nord Stream sabotage. However, we could determine that Tweets originating from the accounts created on these dates were predominantly linked to the communities № 180, 1029, 106 and 771.
+
+ ***Figure 12: Histogram of all account creations***
+
+ <div align="center"> 
+<img width="1098" alt="Fig_12" src="https://user-images.githubusercontent.com/119635466/230787360-100c306a-69ff-4642-b701-543584b2818d.svg">
+ <br><br>
+</div>
+
+Based on our findings, we return to our network graph, which we have complemented accordingly. Figure 13 illustrates the most prevalent communities, which we have labeled according to our overall analysis.
+
+ ***Figure 13: Nord Stream discourse network with community labels***
+
+ <div align="center"> 
+<img width="1098" alt="Fig_13" src="https://user-images.githubusercontent.com/119635466/230787419-7c6de49a-3670-4943-98df-17fdf6026520.jpeg">
+ <br><br>
+</div>
+
+With regard to our research question, we found that popular rumors about the perpetrator of the Nord Stream pipeline sabotage are strongly reflected in the Twitter discourse. Regarding our first hypothesis (***H1***), we find a relatively high prevalence of Tweets suspecting the United States to be behind the Nord Stream sabotage. Further, contrary to our expectation (***H2***), only a relatively small fraction of Tweets in our corpus discusses Russia as a potential perpetrator. Moreover, while the report of an alleged "pro-Ukrainian" group is referenced in a relatively large number of Tweets, it is mostly viewed as a distraction from the true perpetrator, as opposed to our assumption (***H3***). Finally, in support of ***H4***, we find the degree of heterogeneity in the prevalence of popular rumors to vary relatively greatly across the communities.
+
+Apart from that, certain limitations of the investigation must be recognized. First, although we selected the most prominent hashtag associated with the discourse on the Nord Stream sabotage, it may be the case that a number of related Tweets were outside our scope due to the use of different hashtags or none at all. Second, our dataset was filtered to include only English and German-language Tweets. Tweets in other languages may contain different perspectives on the perpetration of the Nord Stream pipeline sabotage. Third, we want to highlight that topic modeling specifications deviating from ours may lead to different results.
 
 <a name="conclusion"></a>
 ## Conclusion
@@ -282,7 +244,16 @@ Based on the exploratory analysis we conducted on the Twitter discourse around t
 - Although a relatively high number of Tweets discuss the report about an alleged pro-Ukrainian group, it is mostly considered to be a distraction
 - The degree of heterogeneity in the prevalence of popular rumors varies relatively greatly across the communities
 
+<a name="ref"></a>
+## References
 
+Blondel, V. D., Guillaume, J., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in large networks. Journal of Statistical Mechanics: Theory and Experiment, 2008(10), P10008. https://doi.org/10.1088/1742-5468/2008/10/p10008
+
+Grootendorst, M. (2022). BERTopic: Neural topic modeling with a class-based TF-IDF procedure. ArXiv. https://doi.org/10.48550/arxiv.2203.05794
+
+Hanneman, R., & Riddle, M. (2005). Introduction to Social Network Methods. https://faculty.ucr.edu/%7Ehanneman/nettext/C1_Social_Network_Data.html 
+
+UK Home Office. (2016). Social Network Analysis: ‘How to guide.’. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491572/socnet_howto.pdf
 
 
 
