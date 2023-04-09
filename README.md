@@ -114,7 +114,7 @@ In community № 180, we identified a total of [14 topics](https://user-images.g
  ***Figure 2: Example Tweets from community № 180***
 
  <div align="center"> 
-<img width="1098" alt="Fig_2" src="https://user-images.githubusercontent.com/119635466/230785264-18fef2bf-226c-451f-877c-151103382ab7.png">
+<img width="500" alt="Fig_2" src="https://user-images.githubusercontent.com/119635466/230785264-18fef2bf-226c-451f-877c-151103382ab7.png">
  <br><br>
 </div>
  
