@@ -172,9 +172,9 @@ In community № 771, we identified a total of [3 topics](https://user-images.gi
  <br><br>
 </div>
 
-<p style="text-align: justify;">
+<p align="justify">
 In community № 232, we identified a total of [2 topics](https://user-images.githubusercontent.com/119635466/230786192-b870c447-5f35-4d93-9911-65a4e770567c.png). Here, we determined two topic clusters. The topics were exclusively in English. The first cluster revolves around satirical posts on the Nord Stream sabotage, mixed with conspiracy theories (Topic 0). The second cluster included suspicions after which the US was behind the Nord Stream sabotage (Topic 1). In Figure 9, Tweets exemplary of the two topic clusters are shown.
- </p>
+</p>
 
  ***Figure 9: Example Tweets from community № 232***
 
