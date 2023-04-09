@@ -99,7 +99,7 @@ Below, in Figure 1, the Nord Stream discourse network is illustrated. Distinct c
  ***Figure 1: Nord Stream discourse network***
 
  <div align="center"> 
-<img width="1000" alt="figure 2" src="https://user-images.githubusercontent.com/119635466/230784286-83a9fc1c-170b-450d-a8ae-470ea7f57519.jpeg">
+<img width="1098" alt="Fig_1" src="https://user-images.githubusercontent.com/119635466/230784286-83a9fc1c-170b-450d-a8ae-470ea7f57519.jpeg">
 </div>
  
 The graph supports the assumption of a rather decentralized network with distinct communities. The largest community (№ 180) is denoted in blue. Among the most important nodes in this community are German far-left parliamentarian Sahra Wagenknecht (@SWagenknecht) and Alice Weidel (@Alice_Weidel), German parliamentarian leader of the German far-right populist party, AfD. The second biggest community (№ 106) is denoted in violet and revolves around several Russian government organizations such as the Russian Ministry of Foreign Affairs (@mfa_russia), the Russian Embassy to the United Kingdom (@RussianEmbassy), the Permanent Mission of Russia to the United Nations (@RussianUN), the Russian Embassy to the United States (@RusEmbUSA), and Russian Deputy Permanent Representative to the United Nations, Dmitry Polyanskiy (@Dpol_un). Moreover, we find numerous pro-Kremlin journalists and pages to be prominent actors within this community (e.g., @sahouraxo, @Consortiumnews, @afshinrattansi). German Far-left parliamentarian Sevim Dağdelen (@SevimDagdelen) is also a key actor and seems to be a link between the blue and violet communities. In general, community № 106 appears to be connected to most other communities. The third biggest community (№ 246) is denoted in green and features in particular the Irish far-left MEPs Mick Wallace (@wallacemick) and Clare Daly (@ClareDalyMEP). The fourth biggest community (№ 1029) is denoted in purple and considerably overlaps with community № 106. It includes, for example, the pro-Kremlin journalist Aaron Maté (@aaronjmate). The fifth biggest community (№ 271) is denoted in dark grey. It seemingly encompasses mostly pro-Ukrainian/anti-Kremlin accounts (e.g., @Tendar) as well as EU Commission President Ursula von der Leyen (@vonderleyen) and Norwegian Prime Minister Jonas Støre (@jonasgahrstore). The sixth largest community (№ 479) is denoted in red. The most prominent actors in this community are predominantly German-language journalists (e.g., @JZirm), news pages (e.g., @tagesschau) and civil society actors (e.g., @jakluge). The seventh largest community (№ 771) is denoted in orange and features prominent American conspiracy theorists (e.g., @JohnBasham) and pages (e.g., @KanekoaTheGreat). Finally, the eights largest community (№ 232) is denoted in turquoise and revolves around a conspiracy theory page (@EcommunistForum). 
@@ -112,10 +112,10 @@ In community № 180, we identified a total of [14 topics](https://user-images.g
  ***Figure 2: Example Tweets from community № 180***
 
  <div align="center"> 
-<img width="1000" alt="Fig_2" src="https://user-images.githubusercontent.com/119635466/230785264-18fef2bf-226c-451f-877c-151103382ab7.png">
+<img width="1098" alt="Fig_2" src="https://user-images.githubusercontent.com/119635466/230785264-18fef2bf-226c-451f-877c-151103382ab7.png">
 </div>
  
- <img width="1098" alt="Fig_2" src="https://user-images.githubusercontent.com/119635466/230785264-18fef2bf-226c-451f-877c-151103382ab7.png">
+
 
  
  
