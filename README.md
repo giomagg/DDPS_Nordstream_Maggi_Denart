@@ -16,9 +16,9 @@ Here we present a summary of our study.
   * [Data Collection](#mdata)
   * [Methodology](#meth)
 - [Results and Discussion](#results)
-  * [Descriptive Statistics](#stats)
   * [Social Network Analysis](#SNA)
-  * [Topic Modelling](#BERT)
+  * [Topic Modeling](#BERT)
+  * [Descriptive Analysis](#stats)
 - [Conclusion](#conclusion)
 
 <a name="context"></a>
@@ -83,37 +83,6 @@ Having associated Tweets and accounts with a respective community, we proceeded 
 <a name="results"></a>
 ## Results and Discussion 
 
-<a name="stats"></a>
-### Descriptive Statistics
-
-#### 1. Timeseries of Account Creation 
-
-
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435238-c4cd05e6-a52c-4524-b981-59318b4aa2d4.svg">
- 
- ***Figure 1***
-    </div>
-
-
-#### 2. Timeseries of Tweets 
-
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435613-9b06ecbc-6e85-40a9-a65a-97f2183778b3.svg">  
-
- ***Figure 2***
-</div>
-
-
-#### 3. Kernel Density by Community
-
-<div align="center"> 
-<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435837-960ab479-5f77-4209-818e-41f13f09bad5.svg">
-
- ***Figure 3***
-</div>
-
-
 <a name="SNA"></a>
 ### Social Network Analysis
 
@@ -168,6 +137,36 @@ Having associated Tweets and accounts with a respective community, we proceeded 
 <img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230597185-57342161-9026-482d-927c-6d2359cda7b0.png">
 
  ***Figure 9***
+</div>
+
+<a name="stats"></a>
+### Descriptive Statistics
+
+#### 1. Timeseries of Account Creation 
+
+
+<div align="center"> 
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435238-c4cd05e6-a52c-4524-b981-59318b4aa2d4.svg">
+ 
+ ***Figure 1***
+    </div>
+
+
+#### 2. Timeseries of Tweets 
+
+<div align="center"> 
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435613-9b06ecbc-6e85-40a9-a65a-97f2183778b3.svg">  
+
+ ***Figure 2***
+</div>
+
+
+#### 3. Kernel Density by Community
+
+<div align="center"> 
+<img width="650" alt="figure 2" src="https://user-images.githubusercontent.com/55432992/230435837-960ab479-5f77-4209-818e-41f13f09bad5.svg">
+
+ ***Figure 3***
 </div>
 
 <a name="conclusion"></a>
