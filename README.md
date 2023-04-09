@@ -6,7 +6,7 @@ This repository provides access to the code and the data used for the final proj
 
 The project was developed by Giovanni Maggi and Louis Denart, master candidates in the Digital, New technologies and Public Policy specialisation of the _Sciences Po School of Public Affairs_. 
 
-Here we present a summary of our study. 
+Here we present a summary of our digital investigation. 
 
 ## Table of Contents
 - [Introduction](#context)
