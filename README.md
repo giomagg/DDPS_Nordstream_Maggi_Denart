@@ -50,19 +50,19 @@ Following from the brief qualitative work conducted in preparation to the study 
 
 Our first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the [EUvDisinfo database](https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date=), an initiative created by the EU External Action Services to track disinformation concerning the Ukrainian war, we found this narrative to be quite prevalent. Therefore, our first hypothesis is: 
 
-> ***H*<sub>1</sub>**: The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.**
+> ***H*<sub>1</sub>**: **The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.**
 
 Secondly, hypothesis number two is derived from the overall suspicion of Russia being behind the attack which has been quite prevalent in the journalistic discourse in many Western and European countries. This is mostly due to Russia's weaponisation of energy which culminated in the sabotage and often referred to Russia's . See for example: [CNN](https://edition.cnn.com/2022/09/28/politics/nord-stream-pipeline-leak-russian-navy-ships/index.html), [Politico](https://www.politico.eu/article/russia-nord-stream-pipeline-could-be-behind-nord-stream-leaks-says-former-german-intel-chief/)'s reporting on Gerhard Schindler's declarations, or [The Times](https://www.thetimes.co.uk/article/who-attacked-nord-stream-pipeline-russia-uk-west-ukraine-war-wv99ds7tx)'s summary of the different allegations. Nevertheless, no formal allegations have been put forward and the [Washington Post](https://www.washingtonpost.com/national-security/2022/12/21/russia-nord-stream-explosions/) reported that, as of December, no concluding evidence were found to support this claim. Still, our second hypothesis is: 
 
-> ***H*<sub>2</sub>**: The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.**
+> ***H*<sub>2</sub>**: **The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.**
 
 Thirdly, we infer our third hypothesis mainly from the [US intelligence allegations](https://www.reuters.com/world/europe/us-intelligence-suggests-pro-ukrainian-group-sabotaged-nord-stream-pipelines-nyt-2023-03-07/) reviewed by the [New York Times](https://www.nytimes.com/2023/03/07/us/politics/nord-stream-pipeline-sabotage-ukraine.html). It is important to notice that [EU officials](https://www.politico.eu/article/eu-officials-nord-stream-two-pipeline-allegation-ukraine-russia/) distanced themselves from such claims.
 
-> ***H*<sub>3</sub>**: The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.**
+> ***H*<sub>3</sub>**: **The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.**
 
 In addition, building the intuition that different communites discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
 
-> ***H*<sub>4</sub>**: The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively high.**
+> ***H*<sub>4</sub>**: **The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively high.**
 
 We also expected the degree of heterogeneity to increase the futher we move away from a community in the retweet social network. What we mean by this is that if two communities are relatively close (i.e., they share many bridges relative to the number of nodes in each of them), then we can expect them to display similar topics while displaying subtle differences. On the other hand, if two communities are relatively distant (i.e., they do not share many bridges relative to the number of nodes in each of them), they will display more substantial differences in the topics and narratives present in each of them.
 
