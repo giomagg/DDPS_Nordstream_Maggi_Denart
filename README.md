@@ -82,7 +82,7 @@ Thirdly, we infer our third hypothesis mainly from the US intelligence allegatio
 > ***H*<sub>3</sub>: The prevalence of Tweets suspecting Ukraine is behind the sabotage will be relatively high.**
 
 <p align="justify">
-In addition to these three, we had some expectations about how these topics would be distributed in the different Twitter communities in the retweet social network – see methodology below. The ideological structure of our online networks influences our exposure, dissemination, and belief of the information we come across online (Ognyanova, forthcoming). In this context, information – especially false messages – spread further in ideologically similar communities (Stein et al., 2023).  
+In addition to these three, we had some expectations about how these topics would be distributed in the different Twitter communities in the retweet social network – see methodology below. The ideological structure of our online networks influences our exposure, dissemination, and belief of the information we come across online (Ognyanova, forthcoming). In this context, information – especially false messages – spread further in ideologically similar communities while it is restrained by an ideologically integrated network structure (Stein et al., 2023).  
  
  building the intuition that different communities discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
 </p>
