@@ -65,7 +65,7 @@ Following from the brief qualitative work conducted in preparation to the study 
 </p>
 
 <p align="justify">
-Our first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the *[EUvDisinfo database](https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date=)*, an initiative created by the EU External Action Services to track disinformation concerning the Ukrainian war, we found this narrative to be quite prevalent. Therefore, our first hypothesis is: 
+Our first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the [EUvDisinfo database](https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date=), an initiative created by the EU External Action Services to track disinformation concerning the Ukrainian war, we found this narrative to be quite prevalent. Therefore, our first hypothesis is: 
 </p>
 
 > ***H*<sub>1</sub>: The prevalence of Tweets suspecting the United States are behind the sabotage will be relatively high.**
