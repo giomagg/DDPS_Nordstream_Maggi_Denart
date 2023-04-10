@@ -337,7 +337,7 @@ In addition to examining the evolution and distribution of Tweet activity, we de
 </div>
 
 <p align="justify">
-We now return to our network graph and label it according to our overall findings. Figure 13 illustrates the idenities of the most prevalent communities in the Twitter debate surrounding the Nord Stream sabotage.
+We now return to our network graph and label it according to our overall findings. Figure 13 illustrates the identities of the most prevalent communities in the Twitter debate surrounding the Nord Stream sabotage.
 </p>  
 
  <div align="center"> 
