@@ -300,7 +300,7 @@ Next, we triangulate these findings with a descriptive analysis of the Nord Stre
 </div>
 
  <div align="center"> 
-<img width="1098" alt="Fig_10" src="https://user-images.githubusercontent.com/119635466/230793318-17cb8e7d-e033-46aa-988c-a3ca4b6eac2c.svg">
+<img width="1098" alt="Fig_10" src="https://user-images.githubusercontent.com/119635466/230947762-6a4cece6-6e7c-4790-9a80-36b4c78a7ccb.svg">
  <br><br>
 </div>
 
