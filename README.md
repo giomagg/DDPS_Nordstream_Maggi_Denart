@@ -76,7 +76,7 @@ Secondly, hypothesis number two is derived from the overall suspicion of Russia 
 > ***H*<sub>2</sub>: The prevalence of Tweets suspecting Russia is behind the sabotage will be relatively high.**
 
 <p align="justify">
-Thirdly, we infer our third hypothesis mainly from the US intelligence allegations reviewed by the New York Times (Entous et al., 2023; Reuters, 2023). It is important to notice that EU officials distanced themselves from such claims (Barigazzi & Bayer, 2023).
+Thirdly, we infer our third hypothesis mainly from the US intelligence allegations reviewed by the New York Times and which claim that a pro-Ukrainian group caused the explosion (Entous et al., 2023; Reuters, 2023). It is important to notice that EU officials distanced themselves from such claims (Barigazzi & Bayer, 2023).
 </p>
 
 > ***H*<sub>3</sub>: The prevalence of Tweets suspecting Ukraine is behind the sabotage will be relatively high.**
