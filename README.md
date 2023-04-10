@@ -361,13 +361,59 @@ Based on the exploratory analysis we conducted on the Twitter discourse around t
 <a name="ref"></a>
 ## References
 
-Blondel, V. D., Guillaume, J., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in large networks. Journal of Statistical Mechanics: Theory and Experiment, 2008(10), P10008. https://doi.org/10.1088/1742-5468/2008/10/p10008
+Al Jazeera. (2023, March 27). *UN Security Council turns down request for Nord Stream inquiry*. https://www.aljazeera.com/news/2023/3/27/un-security-council-turns-down-request-for-nord-stream-inquiry
 
-Grootendorst, M. (2022). BERTopic: Neural topic modeling with a class-based TF-IDF procedure. ArXiv. https://doi.org/10.48550/arxiv.2203.05794
+Atwood, K. B. L., Natasha Bertrand,Kylie. (2022, September 29). First on CNN: European security officials observed Russian Navy ships in vicinity of Nord Stream pipeline leaks. *CNN Politics*. https://www.cnn.com/2022/09/28/politics/nord-stream-pipeline-leak-russian-navy-ships/index.html
+
+Barigazzi & Bayer. (2023, March 8). EU officials distance themselves from intel on Nord Stream blasts. *POLITICO*. https://www.politico.eu/article/eu-officials-nord-stream-two-pipeline-allegation-ukraine-russia/
+
+Bennetts, M. (2023, April 9). Who attacked the Nord Stream pipelines? *The Times*. https://www.thetimes.co.uk/article/who-attacked-nord-stream-pipeline-russia-uk-west-ukraine-war-wv99ds7tx
+
+Blondel, V. D., Guillaume, J., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in large networks. *Journal of Statistical Mechanics: Theory and Experiment*, 2008(10), P10008. https://doi.org/10.1088/1742-5468/2008/10/p10008
+
+Boute, A. (2022). Weaponizing Energy: Energy, Trade, and Investment Law in the New Geopolitical Reality. *American Journal of International Law*, 116(4), 740–751. https://doi.org/10.1017/ajil.2022.53
+
+Burgess, M. (2022, November 11). ‘Dark Ships’ Emerge From the Shadows of the Nord Stream Mystery. *Wired*. https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/
+
+East StratCom Task Force. (2022). EUvsDiSiNFO Database. *European Union External Action Services*. https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date= 
+
+Entous, A., Barnes, J. E., & Goldman, A. (2023, March 7). Intelligence Suggests Pro-Ukrainian Group Sabotaged Pipelines, U.S. Officials Say. *The New York Times*. https://www.nytimes.com/2023/03/07/us/politics/nord-stream-pipeline-sabotage-ukraine.html
+
+Faulconbridge, G., & Ravikumar, S. (2022, October 29). Russia says UK navy blew up Nord Stream, London denies involvement. *Reuters*. https://www.reuters.com/world/europe/russia-says-british-navy-personnel-blew-up-nord-stream-gas-pipelines-2022-10-29/
+
+Gardner, T., & Lewis, S. (2022, September 30). U.S. has much to gain from Nord Stream damage, Russia says at U.N. *Reuters*. https://www.reuters.com/world/us-has-much-gain-nord-stream-damage-russia-says-un-2022-09-30/
+
+Grootendorst, M. (2022). BERTopic: Neural topic modeling with a class-based TF-IDF procedure. *ArXiv*. https://doi.org/10.48550/arxiv.2203.05794
+
+Hackenbruch, Ismar, Schlandt, & Lumetsberger. (2022, 09). Ende von Gas-Austritt für Sonntag erhofft: Aus beschädigten Nord Stream-Pipelines tritt offenbar weniger Gas. *Der Tagesspiegel*. https://www.tagesspiegel.de/wirtschaft/nord-stream-putin-spricht-von-terroranschlag-gegen-nord-stream-8687140.html
 
 Hanneman, R., & Riddle, M. (2005). Introduction to Social Network Methods. https://faculty.ucr.edu/%7Ehanneman/nettext/C1_Social_Network_Data.html 
 
+Harris, S., Hudson, J., Ryan, M., & Birnbaum, M. (2022, December 22). No conclusive evidence Russia is behind Nord Stream attack. *Washington Post*. https://www.washingtonpost.com/national-security/2022/12/21/russia-nord-stream-explosions/
+
+Hersh, S. (2023, February 8). How America Took Out The Nord Stream Pipeline. *Seymour Hersh*. https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream
+
+ISPI. (2022). Gas, crisi Russia-UE: La dashboard con tutti i numeri. *Istituto per gli Studi di Politica Internazionale (ISPI)*. https://www.ispionline.it/it/pubblicazione/gas-crisi-russia-ue-la-dashboard-con-tutti-i-numeri-35726
+
+Meredith, S. (2022, October 11). All you need to know about the Nord Stream gas leaks—And why Europe suspects ‘gross sabotage’. *CNBC*. https://www.cnbc.com/2022/10/11/nord-stream-gas-leaks-what-happened-and-why-europe-suspects-sabotage.html
+
+Midolo, E. (2023, April 10). US bombed Nord Stream gas pipelines, claims investigative journalist Seymour Hersh. *The Times* https://www.thetimes.co.uk/article/us-bombed-nord-stream-gas-pipelines-claims-investigative-journalist-seymour-hersh-s730dnnfz
+
+Nichols, M. (2023, March 27). Russia fails at UN to get Nord Stream blast inquiry. *Reuters*. https://www.reuters.com/world/europe/russia-fails-un-get-nord-stream-blast-inquiry-2023-03-27/
+
+Reuters. (2023, March 8). New intelligence points to pro-Ukraine group in Nord Stream attack -NYT. *Reuters*. https://www.reuters.com/world/europe/us-intelligence-suggests-pro-ukrainian-group-sabotaged-nord-stream-pipelines-nyt-2023-03-07/
+
+Shalal, A., Rinke, A., & Mason, J. (2022, February 8). Biden pledges end to Nord Stream 2 if Russia invades Ukraine. *Reuters*. https://www.reuters.com/world/biden-germanys-scholz-stress-unified-front-against-any-russian-aggression-toward-2022-02-07/
+
+Tebel, R. (2023, March 10). Nord Stream Sabotage: The Evidence So Far. *Geopolitical Monitor*. https://www.geopoliticalmonitor.com/nord-stream-sabotage-the-evidence-so-far/
+
 UK Home Office. (2016). Social Network Analysis: ‘How to guide.’. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491572/socnet_howto.pdf
+
+UN Press. (2023, March 27). Security Council Rejects Draft Resolution Establishing Commission to Investigate Sabotage of Nord Stream Pipeline. *United Nation Press Release*. https://press.un.org/en/2023/sc15243.doc.htm
+
+Welt. (2022, September 29). ‘Only Russia’ could be behind Nord Stream leaks, says former German intel chief. *POLITICO*. https://www.politico.eu/article/russia-nord-stream-pipeline-could-be-behind-nord-stream-leaks-says-former-german-intel-chief/
+
+
 
 
 
