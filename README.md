@@ -82,7 +82,11 @@ Thirdly, we infer our third hypothesis mainly from the US intelligence allegatio
 > ***H*<sub>3</sub>: The prevalence of Tweets suspecting Ukraine is behind the sabotage will be relatively high.**
 
 <p align="justify">
-In addition, building the intuition that different communities discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
+In addition to these three, we had some expectations about how these topics would be distributed in the different Twitter communities in the retweet social network – see methodology below. The ideological structure of a our online network influences out exposure, dissemination, and belief of the information we come across online (Ognyanova, forthcoming).
+ 
+ In the context of online social networks, information spreads in ideologically similar communities. 
+ 
+ building the intuition that different communities discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
 </p>
 
 > ***H*<sub>4</sub>: The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively high.**
@@ -400,6 +404,8 @@ Meredith, S. (2022, October 11). All you need to know about the Nord Stream gas 
 Midolo, E. (2023, April 10). US bombed Nord Stream gas pipelines, claims investigative journalist Seymour Hersh. *The Times* https://www.thetimes.co.uk/article/us-bombed-nord-stream-gas-pipelines-claims-investigative-journalist-seymour-hersh-s730dnnfz
 
 Nichols, M. (2023, March 27). Russia fails at UN to get Nord Stream blast inquiry. *Reuters*. https://www.reuters.com/world/europe/russia-fails-un-get-nord-stream-blast-inquiry-2023-03-27/
+
+Ognyanova, K. (Forthcoming). Network Approaches to Misinformation Evaluation and Correction. In M. S. Weber & I. Yanovitzky (Eds.), *Networks, Knowledge Brokers, and the Public Policymaking Process (pp. 351–373). Springer International Publishing*. https://doi.org/10.1007/978-3-030-78755-4_13
 
 Reuters. (2023, March 8). New intelligence points to pro-Ukraine group in Nord Stream attack -NYT. *Reuters*. https://www.reuters.com/world/europe/us-intelligence-suggests-pro-ukrainian-group-sabotaged-nord-stream-pipelines-nyt-2023-03-07/
 
