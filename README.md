@@ -42,7 +42,7 @@ Against this background speculations have soared in the public sphere regarding 
 </p>
 
 <p align="justify">
-Finally, as recently as March 27th, a Russian motion for an independent international investigation concerning the events failed to pass at the UN Security Council with only Russia, China, and Brazil supporting it (Nichols, 2023; UN Press, 2023). Robert Wood – deputy US ambassador to the UN – commented that *“[t]he United States was not involved in any way. Period”* (Al Jazeera, 2023).
+Finally, as recently as March 27th, a Russian motion for an independent international investigation concerning the events failed to pass at the UN Security Council with only Russia, China, and Brazil supporting it (Nichols, 2023; UN Press, 2023). Robert Wood – deputy US ambassador to the UN – commented that <em>“[t]he United States was not involved in any way. Period”</em> (Al Jazeera, 2023).
 </p>
 
 <a name="Methods"></a>
@@ -65,12 +65,12 @@ Following from the brief qualitative work conducted in preparation to the study 
 </p>
 
 <p align="justify">
-Our first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the *EUvDisinfo database*, an initiative created by the EU External Action Services to track disinformation concerning the Ukrainian war, we found this narrative to be quite prevalent (East StratCom Task Force, 2022). Therefore, our first hypothesis is: </p>
+Our first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the <em>EUvDisinfo database</em>, an initiative created by the EU External Action Services to track disinformation concerning the Ukrainian war, we found this narrative to be quite prevalent (East StratCom Task Force, 2022). Therefore, our first hypothesis is: </p>
 
 > ***H*<sub>1</sub>: The prevalence of Tweets suspecting the United States are behind the sabotage will be relatively high.**
 
 <p align="justify">
-Secondly, hypothesis number two is derived from the overall suspicion of Russia being behind the attack which has been quite prevalent in the journalistic discourse in many Western and European countries (See for example Atwood (2022); Bennetts (2023); Welt (2022)). No formal allegations have been put forward and Harris et al. (2022) reported on the *Washington Post* that, as of December, no concluding evidence were found to support this claim. Still, some public figures – such as US Energy Secretary Jennifer Granholm, German Economy Minister Robert Habeck, and an adviser to Volodymyr Zelensky – expressed their suspicion that Russia was behind the attack (Harris et al., 2022). Thus, our second hypothesis is: 
+Secondly, hypothesis number two is derived from the overall suspicion of Russia being behind the attack which has been quite prevalent in the journalistic discourse in many Western and European countries (See for example Atwood (2022); Bennetts (2023); Welt (2022)). No formal allegations have been put forward and Harris et al. (2022) reported on the <em>Washington Post</em> that, as of December, no concluding evidence were found to support this claim. Still, some public figures – such as US Energy Secretary Jennifer Granholm, German Economy Minister Robert Habeck, and an adviser to Volodymyr Zelensky – expressed their suspicion that Russia was behind the attack (Harris et al., 2022). Thus, our second hypothesis is: 
 </p>
 
 > ***H*<sub>2</sub>: The prevalence of Tweets suspecting Russia is behind the sabotage will be relatively high.**
