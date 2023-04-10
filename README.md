@@ -347,7 +347,7 @@ We now return to our network graph and label it according to our overall finding
 </div>
 
 <p align="justify">
-With regard to our research question, we found that popular rumors about the perpetrator of the Nord Stream pipeline sabotage are strongly reflected in the Twitter discourse. Regarding our first hypothesis (<b><i>H</i><sub>1</sub></b>), we find a relatively high prevalence of Tweets suspecting the United States to be behind the Nord Stream sabotage. Further, contrary to our expectation (<b><i>H</i><sub>2</sub></b>), only a relatively small fraction of Tweets in our corpus discusses Russia as a potential perpetrator. Moreover, while the report of an alleged "pro-Ukrainian" group is referenced in a relatively large number of Tweets, it is mostly viewed as a distraction from the true perpetrator, as opposed to our assumption (<b><i>H</i><sub>3</sub></b>). Finally, in support of (<b><i>H</i><sub>4</sub></b>), we find the degree of heterogeneity in the prevalence of popular rumors to vary relatively greatly across the communities.
+With regard to our research question, we found that popular rumors about the perpetrator of the Nord Stream pipeline sabotage are strongly reflected in the Twitter discourse. Regarding our first hypothesis (<b><i>H</i><sub>1</sub></b>), we find a relatively high prevalence of Tweets suspecting the United States to be behind the Nord Stream sabotage. However, contrary to our expectation (<b><i>H</i><sub>2</sub></b>), only a relatively small fraction of Tweets in our corpus discusses Russia as a potential perpetrator. Moreover, while the report of an alleged "pro-Ukrainian" group is referenced in a relatively large number of Tweets, it is mostly viewed as a distraction from the true perpetrator, as opposed to what we expected to find (<b><i>H</i><sub>3</sub></b>). Finally, in support of (<b><i>H</i><sub>4</sub></b>), we find the degree of heterogeneity in the prevalence of popular rumors to vary relatively greatly across the communities.
 </p>  
 
 <p align="justify">
@@ -357,11 +357,6 @@ Apart from that, certain limitations of the investigation must be recognized. Fi
 <a name="conclusion"></a>
 ## Conclusion
 
-Based on the exploratory analysis we conducted on the Twitter discourse around the Nord Stream sabotage, we can conclude that: 
-- We find relatively high prevalence of Tweets suspecting the United States behind the sabotage
-- Only a relatively small fraction of Tweets discusses Russia as a potential perpetrator
-- Although a relatively high number of Tweets discuss the report about an alleged pro-Ukrainian group, it is mostly considered to be a distraction
-- The degree of heterogeneity in the prevalence of popular rumors varies relatively greatly across the communities
 
 <a name="ref"></a>
 ## References
