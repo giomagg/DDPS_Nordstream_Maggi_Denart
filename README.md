@@ -7,7 +7,7 @@ This repository provides access to the code and the data used for the final proj
 </p>
 
 <p align="justify">
-The project was developed by Giovanni Maggi and Louis Denart, master candidates in the Digital, New technologies and Public Policy specialisation of the _Sciences Po School of Public Affairs_. 
+The project was developed by Giovanni Maggi and Louis Denart, master candidates in the Digital, New technologies and Public Policy specialisation of the <i>Sciences Po School of Public Affairs</i>. 
 </p>
 
 Here we present a summary of our digital investigation. 
