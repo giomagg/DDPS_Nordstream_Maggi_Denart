@@ -393,7 +393,7 @@ Götschenberg, M., Heil, G., & Schmidt, H. (2023, March 7). *Nord-Stream-Ermittl
 
 Grootendorst, M. (2022). BERTopic: Neural topic modeling with a class-based TF-IDF procedure. *ArXiv*. https://doi.org/10.48550/arxiv.2203.05794
 
-Hackenbruch, Ismar, Schlandt, & Lumetsberger. (2022, 09). Ende von Gas-Austritt für Sonntag erhofft: Aus beschädigten Nord Stream-Pipelines tritt offenbar weniger Gas. *Der Tagesspiegel*. https://www.tagesspiegel.de/wirtschaft/nord-stream-putin-spricht-von-terroranschlag-gegen-nord-stream-8687140.html
+Hackenbruch, F., Ismar, G., Schlandt, J., & Lumetsberger, S. (2022, September 30). Ende von Gas-Austritt für Sonntag erhofft: Aus beschädigten Nord Stream-Pipelines tritt offenbar weniger Gas. *Der Tagesspiegel*. https://www.tagesspiegel.de/wirtschaft/nord-stream-putin-spricht-von-terroranschlag-gegen-nord-stream-8687140.html
 
 Hanneman, R., & Riddle, M. (2005). *Introduction to Social Network Methods*. https://faculty.ucr.edu/%7Ehanneman/nettext/C1_Social_Network_Data.html 
 
