@@ -26,15 +26,22 @@ Here we present a summary of our digital investigation.
 ## Introduction
 
 <p align="justify">
-
 On September 26th 2022, at around 2am, the Nord Stream 2 pipeline connecting Russia to Germany underwent an explosion which resulted in the failure of the system. Around seven hours later, its sister pipeline Nord Stream 1 underwent the same problems. The two resulted in underwater gas leaks in the territorial waters of both Sweden and Denmark around the Bornholm Island (DK). The explosions were immediately recognised on September 27th as intentional sabotage by Sweden, Russia, the European Union (EU), and NATO. While there are evidence to indicate the intentionality of the explosions (found by the Swedish authorities and backed up by German Police investigations), there are no proofs concerning the identities of the perpetrators, their motives, nor their means. Investigations are being carried on by Sweden, Denmark, Germany, and Russia but have yet to find conclusive evidence (Meredith, 2022; Tebel, 2023).
+</p>
 
+<p align="justify">
 The journalistic coverage of the events has been debating the causes of the attack. On September 27th, the German news outlet *Der Tegesspiegel* claimed that the sabotaged had been the result of targeted attacks by submarines or divers (Hackenbruch et al., 2022). A couple of days later, on September 29th, *CNN* reported that Russian submarines were observed at the site of the sabotage in the days preceding the attack (Atwood, 2022). Nevertheless, on November 11th, *Wired Magazine*'s analysis of satellite images suggested that two large unidentified ships – which turned off their tracking systems – were at the site of the sabotage in the days leading up the events (Burgess, 2022). Moreover, and highly relevant to this study, on February 8th 2023 the American 1970 Pulitzer-prize winner Seymour Hersh published an article on his personal blog on *Substack* claiming that the United States perpetrated the attack – and that it was aided by Norwegian assets in doing so (see Hersh, 2023; Midolo, 2023).
+</p>
 
+<p align="justify">
 The Nord Stream gas leaks come at a crucial point during the Ukrainian war which had already sparked tensions between the Russian Federation and the West (specifically with the EU) on crucial strategic infrastructure and on energy supply. Specifically interesting in this regard is the way in which the war already revived debates around European dependency on Russian natural gas supply – which at the time at the invasion made up the biggest share of gas imports for the EU (ISPI, 2022) – which the Kremlin weaponised in response to the EU's actions following the invasion of Ukraine (see Boute, 2022). Moreover, further embedding Nord Stream in the context of the Ukrainian war, it is relevant to point out that, even before the invasion, US president Joe Biden claimed he would have "end[ed] Nord Stream in the case of a Russian invasion (Shalal et al., 2022).
+</p>
 
+<p align="justify">
 Against this background speculations have soared in the public sphere regarding the responsible actors for the sabotage. So far this has not resulted in any concluding evidence but has rather remained a game of pointing fingers. Officially, the Russian authorities have taken a strong position, and, on October 1st 2022, they blamed in front of the UN Security Council the United States to be behind the attack (Gardner & Lewis, 2022). Later, on October 29th, the Russian Ministry of Defence pointed also to the United Kingdom as a possible perpetrator (Faulconbridge & Ravikumar, 2022). Contrarily to Russia, the EU and NATO have yet to take an official position – although suspicions of a Russian involvement in the sabotage dominated the public sphere in the Western media (See for example Atwood (2022); Bennetts (2023); Welt (2022)). On March 7th, the US intelligence services released a report claiming that the attack was in fact caused by a pro-Ukrainian group (Entous et al., 2023; Reuters, 2023). 
+</p>
 
+<p align="justify">
 Finally, as recently as March 27th, a Russian motion for an independent international investigation concerning the events failed to pass at the UN Security Council with only Russia, China, and Brazil supporting it (Nichols, 2023; UN Press, 2023). Robert Wood – deputy US ambassador to the UN – commented that *“[t]he United States was not involved in any way. Period”* (Al Jazeera, 2023).
 </p>
 
@@ -46,30 +53,42 @@ Finally, as recently as March 27th, a Russian motion for an independent internat
 
 <p align="justify">
 Our research aims to explore how the game of pointing fingers is reflected in the Twitter debate. Specifically, because of the absence of concluding evidence from any of the investigations which have been carried on since the attack, and building on the highly heterogeneous public debate around the perpetrators of the sabotage, we ask:
+</p>
 
 > **To what extent are popular rumours about the perpetrator of the Nord Stream pipeline sabotage reflected in the Twitter discourse?**
 
 <a name="hyp"></a>
 ### Hypotheses
 
+<p align="justify">
 Following from the brief qualitative work conducted in preparation to the study – which took into account the international press in order to understand the facts and speculations surrounding the Nord Stream sabotage – we developed three main hypothesis. These concern the topics which we expected to find in the Twitter discourse around the perpetrators of the attack.
+</p>
 
+<p align="justify">
 Our first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the *[EUvDisinfo database](https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date=)*, an initiative created by the EU External Action Services to track disinformation concerning the Ukrainian war, we found this narrative to be quite prevalent. Therefore, our first hypothesis is: 
+</p>
 
 > ***H*<sub>1</sub>: The prevalence of Tweets suspecting the United States are behind the sabotage will be relatively high.**
 
+<p align="justify">
 Secondly, hypothesis number two is derived from the overall suspicion of Russia being behind the attack which has been quite prevalent in the journalistic discourse in many Western and European countries (See for example Atwood (2022); Bennetts (2023); Welt (2022)). No formal allegations have been put forward and Harris et al. (2022) reported on the *Washington Post* that, as of December, no concluding evidence were found to support this claim. Still, some public figures – such as US Energy Secretary Jennifer Granholm, German Economy Minister Robert Habeck, and an adviser to Volodymyr Zelensky – expressed their suspicion that Russia was behind the attack (Harris et al., 2022). Thus, our second hypothesis is: 
+</p>
 
 > ***H*<sub>2</sub>: The prevalence of Tweets suspecting Russia is behind the sabotage will be relatively high.**
 
+<p align="justify">
 Thirdly, we infer our third hypothesis mainly from the US intelligence allegations reviewed by the New York Times (Entous et al., 2023; Reuters, 2023). It is important to notice that EU officials distanced themselves from such claims (Barigazzi & Bayer, 2023).
+</p>
 
 > ***H*<sub>3</sub>: The prevalence of Tweets suspecting Ukraine is behind the sabotage will be relatively high.**
 
+<p align="justify">
 In addition, building the intuition that different communities discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
+</p>
 
 > ***H*<sub>4</sub>: The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively high.**
 
+<p align="justify">
 We also expected the degree of heterogeneity to increase the further we move away from a community in the retweet social network. What we mean by this is that if two communities are relatively close (i.e., they share many bridges relative to the number of nodes in each of them), then we can expect them to display similar topics while displaying subtle differences. On the other hand, if two communities are relatively distant (i.e., they do not share many bridges relative to the number of nodes in each of them), they will display more substantial differences in the topics and narratives present in each of them.
 </p>
 
