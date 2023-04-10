@@ -13,7 +13,7 @@ The project was developed by Giovanni Maggi and Louis Denart, master candidates 
 Here we present a summary of our digital investigation. 
 
 ## Table of Contents
-- [Introduction](#context)
+- [Background](#context)
 - [Methodology and Research Design](#Methods)
   * [Research Question](#res)
   * [Hypotheses](#hyp)
@@ -27,7 +27,7 @@ Here we present a summary of our digital investigation.
 - [References](#ref)
 
 <a name="context"></a>
-## Introduction
+## Background
 
 <p align="justify">
 On September 26th 2022, at around 2am, the Nord Stream 2 pipeline connecting Russia to Germany underwent an explosion which resulted in the failure of the system. Around seven hours later, its sister pipeline Nord Stream 1 underwent the same problems. The two resulted in underwater gas leaks in the territorial waters of both Sweden and Denmark around the Bornholm Island (DK). The explosions were immediately recognised on September 27th as intentional sabotage by Sweden, Russia, the European Union (EU), and NATO. While there are evidence to indicate the intentionality of the explosions (found by the Swedish authorities and backed up by German Police investigations), there are no proofs concerning the identities of the perpetrators, their motives, nor their means. Investigations are being carried on by Sweden, Denmark, Germany, and Russia but have yet to find conclusive evidence (Meredith, 2022; Tebel, 2023).
