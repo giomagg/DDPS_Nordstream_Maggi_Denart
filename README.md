@@ -161,6 +161,7 @@ The graph supports the assumption of a rather decentralized network with distinc
 <a name="BERT"></a>
 ### Topic Modeling
 
+<a name="com_180"></a>
 <p align="justify">
 In community № 180, we identified a total of <a href="https://user-images.githubusercontent.com/119635466/230784809-8df61907-1978-4efb-bfad-170e23e9ffb3.png">14 topics</a>. Based on these topics, we interpretively determined three overarching topic clusters. Moreover, as the most prominent actors from the social network analysis already indicated, the topics within this community were nearly exclusively in German. The first cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included, among others, direct allegations by public figures (e.g., Topic 0) and conjectures about the course of events (e.g., Topic 8). The second cluster involves topics related to a recent news report that claimed that a pro-Ukrainian was behind the Nord Stream sabotage (e.g., Topic 2). A closer manual inspection, however, revealed that the dominant view within these topics was that this story was only meant to distract from the real perpetrator. The third cluster included topics insisting that Russia would be the victim in this matter (e.g., Topic 4). In Figure 2, Tweets exemplary of the three topic clusters are shown.
 </p> 
@@ -319,7 +320,7 @@ To explore how the Tweet activity varied among the eight most prevalent communit
 </div>
 
 <p align="justify">
-In addition to examining the evolution and distribution of Tweet activity, we determined the points in time when the accounts involved were created. Figure 12 shows this evolution over time. The first account associated with Tweets from our data set was created on August 30, 2006, the most recent account was created on March 11, 2023. Interestingly, 25% of all associated accounts (about 38,724) were created after September 28, 2021. Moreover, we can observe to extreme peaks around April 26 and October 28, 2022. Yet, we were not able to link these to events or developments related to the Nord Stream sabotage. However, we could determine that Tweets originating from the accounts created on these dates were predominantly linked to the communities № 180, 1029, 106 and 771.
+In addition to examining the evolution and distribution of Tweet activity, we determined the points in time when the accounts involved were created. Figure 12 shows this evolution over time. The first account associated with Tweets from our data set was created on August 30, 2006, the most recent account was created on March 11, 2023. Interestingly, 25% of all associated accounts (about 38,724) were created after September 28, 2021. Moreover, we can observe to extreme peaks around April 26 and October 28, 2022. Yet, we were not able to link these to events or developments related to the Nord Stream sabotage. However, we could determine that Tweets originating from the accounts created on these dates were predominantly linked to the communities № [180](#com_180), 1029, 106 and 771.
 </p>  
 
  <div align="center"> 
