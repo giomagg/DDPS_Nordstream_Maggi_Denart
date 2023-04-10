@@ -389,11 +389,13 @@ Seth Flaxman, Sharad Goel, Justin M. Rao. (2016). Filter Bubbles, Echo Chambers,
 
 Gardner, T., & Lewis, S. (2022, September 30). U.S. has much to gain from Nord Stream damage, Russia says at U.N. *Reuters*. https://www.reuters.com/world/us-has-much-gain-nord-stream-damage-russia-says-un-2022-09-30/
 
+Götschenberg, M., Heil, G., & Schmidt, H. (2023, March 7). *Nord-Stream-Ermittlungen: Spuren führen in die Ukraine*. Tagesschau. https://www.tagesschau.de/investigativ/nord-stream-explosion-101.html
+
 Grootendorst, M. (2022). BERTopic: Neural topic modeling with a class-based TF-IDF procedure. *ArXiv*. https://doi.org/10.48550/arxiv.2203.05794
 
 Hackenbruch, Ismar, Schlandt, & Lumetsberger. (2022, 09). Ende von Gas-Austritt für Sonntag erhofft: Aus beschädigten Nord Stream-Pipelines tritt offenbar weniger Gas. *Der Tagesspiegel*. https://www.tagesspiegel.de/wirtschaft/nord-stream-putin-spricht-von-terroranschlag-gegen-nord-stream-8687140.html
 
-Hanneman, R., & Riddle, M. (2005). Introduction to Social Network Methods. https://faculty.ucr.edu/%7Ehanneman/nettext/C1_Social_Network_Data.html 
+Hanneman, R., & Riddle, M. (2005). *Introduction to Social Network Methods*. https://faculty.ucr.edu/%7Ehanneman/nettext/C1_Social_Network_Data.html 
 
 Harris, S., Hudson, J., Ryan, M., & Birnbaum, M. (2022, December 22). No conclusive evidence Russia is behind Nord Stream attack. *Washington Post*. https://www.washingtonpost.com/national-security/2022/12/21/russia-nord-stream-explosions/
 
@@ -417,7 +419,7 @@ Stein, J., Keuschnigg, M., & van de Rijt, A. (2023). Network segregation and the
 
 Tebel, R. (2023, March 10). Nord Stream Sabotage: The Evidence So Far. *Geopolitical Monitor*. https://www.geopoliticalmonitor.com/nord-stream-sabotage-the-evidence-so-far/
 
-UK Home Office. (2016). Social Network Analysis: ‘How to guide.’. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491572/socnet_howto.pdf
+UK Home Office. (2016). *Social Network Analysis: ‘How to guide.’*. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491572/socnet_howto.pdf
 
 UN Press. (2023, March 27). Security Council Rejects Draft Resolution Establishing Commission to Investigate Sabotage of Nord Stream Pipeline. *United Nation Press Release*. https://press.un.org/en/2023/sc15243.doc.htm
 
