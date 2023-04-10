@@ -320,7 +320,7 @@ To explore how the Tweet activity varied among the eight most prevalent communit
 </div>
 
 <p align="justify">
-In addition to examining the evolution and distribution of Tweet activity, we determined the points in time when the accounts involved were created. Figure 12 shows this evolution over time. The first account associated with Tweets from our data set was created on August 30, 2006, the most recent account was created on March 11, 2023. Interestingly, 25% of all associated accounts (about 38,724) were created after September 28, 2021. Moreover, we can observe to extreme peaks around April 26 and October 28, 2022. Yet, we were not able to link these to events or developments related to the Nord Stream sabotage. However, we could determine that Tweets originating from the accounts created on these dates were predominantly linked to the communities № <a href="com_180">180</a>, 1029, 106 and 771.
+In addition to examining the evolution and distribution of Tweet activity, we determined the points in time when the accounts involved were created. Figure 12 shows this evolution over time. The first account associated with Tweets from our data set was created on August 30, 2006, the most recent account was created on March 11, 2023. Interestingly, 25% of all associated accounts (about 38,724) were created after September 28, 2021. Moreover, we can observe to extreme peaks around April 26 and October 28, 2022. Yet, we were not able to link these to events or developments related to the Nord Stream sabotage. However, we could determine that Tweets originating from the accounts created on these dates were predominantly linked to the communities № <a href="#com_180">180</a>, 1029, 106 and 771.
 </p>  
 
  <div align="center"> 
