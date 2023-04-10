@@ -176,6 +176,7 @@ In community № 180, we identified a total of <a href="https://user-images.gith
  <br><br>
 </div>
  
+<a name="com_106"></a>
 <p align="justify">
 In community № 106, we identified a total of <a href="https://user-images.githubusercontent.com/119635466/230785440-0a7f97a1-5cc5-4b38-a7bf-1a91afd0cca6.png">15 topics</a>. Here, we determined three overarching topic clusters. The topics within this community were almost exclusively in English. Again, the first and most prominent cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included, among others, speculations by public figures (e.g., Topic 9) and references to an interview with US President Biden from February 7, 2022, which some view as proof of US involvement (e.g., Topic 2). The second cluster of topics mainly revolved around references to and corresponding speculations about the publication of Seymour Hersh’s “investigative” report (e.g., Topic 10). The third topic cluster consisted of topics according to which the EU would allegedly not be interested in a genuine investigation of the incident (e.g., Topic 7). In Figure 3, Tweets exemplary of the three topic clusters are shown.
 </p>
@@ -204,6 +205,7 @@ In community № 246, we identified a total of <a href="https://user-images.gith
  <br><br>
 </div>
 
+<a name="com_1029"></a>
 <p align="justify">
 In community № 1029, we identified a total of <a href="https://user-images.githubusercontent.com/119635466/230785783-b0112ee1-c115-453e-bc24-c1ceb852a4ed.png">5 topics</a>. Here, we determined three topic clusters. The topics were both in English and in German. As in the prior communities, the suspicion that the US had sabotaged the Nord Stream pipelines was widely reflected in the topics (e.g., Topic 0). The second topic cluster involved views that the spy balloons (or “UFO’s”) over the US were intended to distract from Nord Stream sabotage (Topic 3). The third topic cluster mainly included reports about an anti-war rally that took place in the wake of this year’s Munich Security Conference (Topic 4). In Figure 5, Tweets exemplary of the three topic clusters are shown.
 </p> 
@@ -246,6 +248,7 @@ In community № 479, we identified a total of <a href="https://user-images.gith
  <br><br>
 </div>
 
+<a name="com_771"></a>
 <p align="justify">
 In community № 771, we identified a total of <a href="https://user-images.githubusercontent.com/119635466/230786100-6fae49d7-c4d8-4117-b2ee-042e96e9cc4d.png">3 topics</a>. Here, we determined two topic clusters. The topics were exclusively in English. The first cluster involves topics that suspect the US to be behind the Nord Stream sabotage. Specifically, this included alleged insider information from a US Defense Department source, according to which Joe Biden ordered the Nord Stream sabotage (Topic 0). The second cluster of topics mainly revolved around references to and corresponding speculations about the publication of Seymour Hersh’s “investigative” report (e.g., Topic 1). In Figure 8, Tweets exemplary of the two topic clusters are shown.
 </p> 
@@ -320,7 +323,7 @@ To explore how the Tweet activity varied among the eight most prevalent communit
 </div>
 
 <p align="justify">
-In addition to examining the evolution and distribution of Tweet activity, we determined the points in time when the accounts involved were created. Figure 12 shows this evolution over time. The first account associated with Tweets from our data set was created on August 30, 2006, the most recent account was created on March 11, 2023. Interestingly, 25% of all associated accounts (about 38,724) were created after September 28, 2021. Moreover, we can observe to extreme peaks around April 26 and October 28, 2022. Yet, we were not able to link these to events or developments related to the Nord Stream sabotage. However, we could determine that Tweets originating from the accounts created on these dates were predominantly linked to the communities № <a href="#com_180">180</a>, 1029, 106 and 771.
+In addition to examining the evolution and distribution of Tweet activity, we determined the points in time when the accounts involved were created. Figure 12 shows this evolution over time. The first account associated with Tweets from our data set was created on August 30, 2006, the most recent account was created on March 11, 2023. Interestingly, 25% of all associated accounts (about 38,724) were created after September 28, 2021. Moreover, we can observe to extreme peaks around April 26 and October 28, 2022. Yet, we were not able to link these to events or developments related to the Nord Stream sabotage. However, we could determine that Tweets originating from the accounts created on these dates were predominantly linked to the communities № <a href="#com_180">180</a>, <a href="#com_1029">1029</a>, <a href="#com_106">106</a> and <a href="#com_771">771</a>.
 </p>  
 
  <div align="center"> 
