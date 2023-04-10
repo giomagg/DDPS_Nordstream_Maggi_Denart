@@ -375,7 +375,7 @@ Boute, A. (2022). Weaponizing Energy: Energy, Trade, and Investment Law in the N
 
 Burgess, M. (2022, November 11). ‘Dark Ships’ Emerge From the Shadows of the Nord Stream Mystery. *Wired*. https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/
 
-Eady, G., Nagler, J., Guess, A., Zilinsky, J., Tucker, Joshua A. 2019. How Many People Live in Political Bubbles on Social Media? Evidence From Linked Survey and Twitter Data. *SAGE Open*. 9(1). doi: 10.1177/2158244019832705
+Eady, G., Nagler, J., Guess, A., Zilinsky, J., Tucker, Joshua A. (2019). How Many People Live in Political Bubbles on Social Media? Evidence From Linked Survey and Twitter Data. *SAGE Open*. 9(1). doi: 10.1177/2158244019832705
 
 East StratCom Task Force. (2022). EUvsDiSiNFO Database. *European Union External Action Services*. https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date= 
 
@@ -383,7 +383,7 @@ Entous, A., Barnes, J. E., & Goldman, A. (2023, March 7). Intelligence Suggests 
 
 Faulconbridge, G., & Ravikumar, S. (2022, October 29). Russia says UK navy blew up Nord Stream, London denies involvement. *Reuters*. https://www.reuters.com/world/europe/russia-says-british-navy-personnel-blew-up-nord-stream-gas-pipelines-2022-10-29/
 
-Seth Flaxman, Sharad Goel, Justin M. Rao. 2016. Filter Bubbles, Echo Chambers, and Online News Consumption. *Public Opinion Quarterly*. 80(1): 298–320. https://doi.org/10.1093/poq/nfw006
+Seth Flaxman, Sharad Goel, Justin M. Rao. (2016). Filter Bubbles, Echo Chambers, and Online News Consumption. *Public Opinion Quarterly*. 80(1): 298–320. https://doi.org/10.1093/poq/nfw006
 
 Gardner, T., & Lewis, S. (2022, September 30). U.S. has much to gain from Nord Stream damage, Russia says at U.N. *Reuters*. https://www.reuters.com/world/us-has-much-gain-nord-stream-damage-russia-says-un-2022-09-30/
 
