@@ -3,7 +3,7 @@
 _Paris, April 6th 2023_
 
 <p align="justify">
-This repository provides access to the code and the data used for the final project in the context of the course "Diving in the Digital Public Space" offered by CIVICA in the Spring of 2023 and taught by Prof. Jean-Philippe Cointet (_Sciences Po_), Prof. Marton Karsai (_Central European University_), and Armin Pournaki (_Sciences Po_). 
+This repository provides access to the code and the data used for the final project in the context of the course "Diving in the Digital Public Space" offered by CIVICA in the Spring of 2023 and taught by Prof. Jean-Philippe Cointet (<i>Sciences Po</i>), Prof. Marton Karsai (</i>Central European University</i>), and Armin Pournaki (</i>Sciences Po<i>). 
 </p>
 
 <p align="justify">
