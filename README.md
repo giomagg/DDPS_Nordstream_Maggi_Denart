@@ -38,7 +38,7 @@ The journalistic coverage of the events has been debating the causes of the atta
 </p>
 
 <p align="justify">
-The Nord Stream gas leaks come at a crucial point during the Ukrainian war which had already sparked tensions between the Russian Federation and the West (specifically with the EU) on crucial strategic infrastructure and on energy supply. Specifically interesting in this regard is the way in which the war already revived debates around European dependency on Russian natural gas supply – which at the time at the invasion made up the biggest share of gas imports for the EU (ISPI, 2022) – which the Kremlin weaponised in response to the EU's actions following the invasion of Ukraine (see Boute, 2022). Moreover, further embedding Nord Stream in the context of the Ukrainian war, it is relevant to point out that, even before the invasion, US president Joe Biden claimed he would have "end[ed] Nord Stream in the case of a Russian invasion (Shalal et al., 2022).
+The Nord Stream gas leaks come at a crucial point during the Russo-Ukrainian War which had already sparked tensions between the Russian Federation and the West (specifically with the EU) on crucial strategic infrastructure and on energy supply. Specifically interesting in this regard is the way in which the war already revived debates around European dependency on Russian natural gas supply – which at the time at the invasion made up the biggest share of gas imports for the EU (ISPI, 2022) – which the Kremlin weaponised in response to the EU's actions following the invasion of Ukraine (see Boute, 2022). Moreover, further embedding Nord Stream in the context of the Russo-Ukrainian War, it is relevant to point out that, even before the invasion, US president Joe Biden claimed he would have "end[ed] Nord Stream in the case of a Russian invasion (Shalal et al., 2022).
 </p>
 
 <p align="justify">
@@ -69,7 +69,7 @@ Following from the brief qualitative work conducted in preparation to the study 
 </p>
 
 <p align="justify">
-Our first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the <em>EUvDisinfo database</em>, an initiative created by the EU External Action Services to track disinformation concerning the Ukrainian war, we found this narrative to be quite prevalent (East StratCom Task Force, 2022). Therefore, our first hypothesis is: </p>
+Our first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularisation of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the <em>EUvDisinfo database</em>, an initiative created by the EU External Action Services to track disinformation concerning the Russo-Ukrainian War, we found this narrative to be quite prevalent (East StratCom Task Force, 2022). Therefore, our first hypothesis is: </p>
 
 > ***H*<sub>1</sub>: The prevalence of Tweets suspecting the United States are behind the sabotage will be relatively high.**
 
