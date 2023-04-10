@@ -82,9 +82,7 @@ Thirdly, we infer our third hypothesis mainly from the US intelligence allegatio
 > ***H*<sub>3</sub>: The prevalence of Tweets suspecting Ukraine is behind the sabotage will be relatively high.**
 
 <p align="justify">
-In addition to these three, we had some expectations about how these topics would be distributed in the different Twitter communities in the retweet social network – see methodology below. The ideological structure of our online networks influences our exposure, dissemination, and belief of the information we come across online (Ognyanova, forthcoming). In this context, information – especially false messages – spread further in ideologically similar communities while it is restrained by an ideologically integrated network structure (Stein et al., 2023).  
- 
- building the intuition that different communities discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
+In addition to these three, we had some expectations about how these topics would be distributed in the different Twitter communities in the retweet social network – see methodology below. For this we build on the – still debated – literature on political bubbles on social media (see e.g., Eady et al., 2019; Flaxman et al., 2016). In turn, the ideological structure of our online networks influences our exposure, dissemination, and belief of the information we come across online (Ognyanova, forthcoming). In this context, information – especially false messages – spread further in ideologically similar communities while they are restrained by an ideologically integrated network structure (Stein et al., 2023).  This is because a person's probability of sharing increases as a messages is aligned to the individual's previous beliefs and ideology (<em>ibidem</em>). Building on these intuitions, we can expect that different communities – all displaying different interests ideologies – will focus on different aspects of the story in their discussions. Therefore, they will develop different narratives around the same event. More formally, our fourth hypothesis is: 
 </p>
 
 > ***H*<sub>4</sub>: The degree of heterogeneity in the prevalence of popular rumors across different communities will be relatively high.**
@@ -377,11 +375,15 @@ Boute, A. (2022). Weaponizing Energy: Energy, Trade, and Investment Law in the N
 
 Burgess, M. (2022, November 11). ‘Dark Ships’ Emerge From the Shadows of the Nord Stream Mystery. *Wired*. https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/
 
+Eady, G., Nagler, J., Guess, A., Zilinsky, J., Tucker, Joshua A. 2019. How Many People Live in Political Bubbles on Social Media? Evidence From Linked Survey and Twitter Data. *SAGE Open*. 9(1). doi: 10.1177/2158244019832705
+
 East StratCom Task Force. (2022). EUvsDiSiNFO Database. *European Union External Action Services*. https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date= 
 
 Entous, A., Barnes, J. E., & Goldman, A. (2023, March 7). Intelligence Suggests Pro-Ukrainian Group Sabotaged Pipelines, U.S. Officials Say. *The New York Times*. https://www.nytimes.com/2023/03/07/us/politics/nord-stream-pipeline-sabotage-ukraine.html
 
 Faulconbridge, G., & Ravikumar, S. (2022, October 29). Russia says UK navy blew up Nord Stream, London denies involvement. *Reuters*. https://www.reuters.com/world/europe/russia-says-british-navy-personnel-blew-up-nord-stream-gas-pipelines-2022-10-29/
+
+Seth Flaxman, Sharad Goel, Justin M. Rao. 2016. Filter Bubbles, Echo Chambers, and Online News Consumption. *Public Opinion Quarterly*. 80(1): 298–320. https://doi.org/10.1093/poq/nfw006
 
 Gardner, T., & Lewis, S. (2022, September 30). U.S. has much to gain from Nord Stream damage, Russia says at U.N. *Reuters*. https://www.reuters.com/world/us-has-much-gain-nord-stream-damage-russia-says-un-2022-09-30/
 
