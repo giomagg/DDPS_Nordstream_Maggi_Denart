@@ -82,9 +82,7 @@ Thirdly, we infer our third hypothesis mainly from the US intelligence allegatio
 > ***H*<sub>3</sub>: The prevalence of Tweets suspecting Ukraine is behind the sabotage will be relatively high.**
 
 <p align="justify">
-In addition to these three, we had some expectations about how these topics would be distributed in the different Twitter communities in the retweet social network – see methodology below. The ideological structure of a our online network influences out exposure, dissemination, and belief of the information we come across online (Ognyanova, forthcoming).
- 
- In the context of online social networks, information spreads in ideologically similar communities. 
+In addition to these three, we had some expectations about how these topics would be distributed in the different Twitter communities in the retweet social network – see methodology below. The ideological structure of our online networks influences our exposure, dissemination, and belief of the information we come across online (Ognyanova, forthcoming). In this context, information – especially false messages – spread further in ideologically similar communities (Stein et al., 2023).  
  
  building the intuition that different communities discuss different topics, with different focuses and different interests – and thus develop different narratives around the same event – we developed a fourth hypothesis. 
 </p>
@@ -410,6 +408,8 @@ Ognyanova, K. (Forthcoming). Network Approaches to Misinformation Evaluation and
 Reuters. (2023, March 8). New intelligence points to pro-Ukraine group in Nord Stream attack -NYT. *Reuters*. https://www.reuters.com/world/europe/us-intelligence-suggests-pro-ukrainian-group-sabotaged-nord-stream-pipelines-nyt-2023-03-07/
 
 Shalal, A., Rinke, A., & Mason, J. (2022, February 8). Biden pledges end to Nord Stream 2 if Russia invades Ukraine. *Reuters*. https://www.reuters.com/world/biden-germanys-scholz-stress-unified-front-against-any-russian-aggression-toward-2022-02-07/
+
+Stein, J., Keuschnigg, M., & van de Rijt, A. (2023). Network segregation and the propagation of misinformation. Nature, 13(1), 917. https://doi.org/10.1038/s41598-022-26913-5
 
 Tebel, R. (2023, March 10). Nord Stream Sabotage: The Evidence So Far. *Geopolitical Monitor*. https://www.geopoliticalmonitor.com/nord-stream-sabotage-the-evidence-so-far/
 
