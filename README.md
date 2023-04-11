@@ -391,7 +391,7 @@ Burgess, M. (2022, November 11). ‘Dark Ships’ Emerge From the Shadows of the
 
 Diaz Ruiz, C., Nilsson, T. (2023). Disinformation and Echo Chambers: How Disinformation Circulates on Social Media Through Identity-Driven Controversies. *Journal of Public Policy & Marketing*. 42(1). 18-35. doi: 10.1177/07439156221103852
 
-Eady, G., Nagler, J., Guess, A., Zilinsky, J., Tucker, Joshua A. (2019). How Many People Live in Political Bubbles on Social Media? Evidence From Linked Survey and Twitter Data. *SAGE Open*. 9(1). doi: 10.1177/2158244019832705
+Eady, G., Nagler, J., Guess, A., Zilinsky, J., Tucker, Joshua A. (2019). How Many People Live in Political Bubbles on Social Media? Evidence From Linked Survey and Twitter Data. *SAGE Open*. 9(1). https://doi.org/10.1177/2158244019832705
 
 East StratCom Task Force. (2022). EUvsDiSiNFO Database. *European Union External Action Services*. https://euvsdisinfo.eu/disinformation-cases/?text=nord%20stream&date= 
 
