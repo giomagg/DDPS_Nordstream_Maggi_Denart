@@ -389,7 +389,7 @@ Boute, A. (2022). Weaponizing Energy: Energy, Trade, and Investment Law in the N
 
 Burgess, M. (2022, November 11). ‘Dark Ships’ Emerge From the Shadows of the Nord Stream Mystery. *Wired*. https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/
 
-Diaz Ruiz, C., Nilsson, T. (2023). Disinformation and Echo Chambers: How Disinformation Circulates on Social Media Through Identity-Driven Controversies. *Journal of Public Policy & Marketing*. 42(1). 18-35. doi: 10.1177/07439156221103852
+Diaz Ruiz, C., Nilsson, T. (2023). Disinformation and Echo Chambers: How Disinformation Circulates on Social Media Through Identity-Driven Controversies. *Journal of Public Policy & Marketing*. 42(1). 18-35. https://doi.org/10.1177/07439156221103852
 
 Eady, G., Nagler, J., Guess, A., Zilinsky, J., Tucker, Joshua A. (2019). How Many People Live in Political Bubbles on Social Media? Evidence From Linked Survey and Twitter Data. *SAGE Open*. 9(1). https://doi.org/10.1177/2158244019832705
 
