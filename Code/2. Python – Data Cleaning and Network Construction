@@ -1,0 +1,28 @@
+#2. Data Cleaning and Network Construction
+
+#STEP 1 - Load the data
+
+from google.colab import drive
+drive.mount('/content/drive')
+
+import os 
+import pandas as pd 
+
+os.chdir("/content/drive/MyDrive/Colab Notebooks/DDPS/Data Project")
+df = pd.read_csv("20230312_Nordstream_df.csv")
+
+#STEP 2 - Subset only german and english tweets
+df = pd.concat([df[df["sourcetweet_lang"] == "en"], df[df["sourcetweet_lang"] == "de"]])
+
+#STEP 3 - Construct retweet network and save gml file
+! pip install igraph
+import igraph
+
+network = igraph.Graph.TupleList([(row['author_id'], 
+                                   row['sourcetweet_author_id']) for index, row in df.iterrows() if row['retweet_count'] > 0 and not pd.isna(row['sourcetweet_author_id'])], directed=True)              
+igraph.summary(network)
+igraph.write(network.simplify(), "nordstream.gml", format="gml")
+
+
+#STEP 4 - Import gml file on Gephi to visualise graph
+#STEP 5 - Calculate modularity class and page rank in gephi
