@@ -59,7 +59,7 @@ Finally, as recently as March 27th, a Russian motion for an independent internat
 Our research aims to explore how the game of pointing fingers is reflected in the Twitter debate. Specifically, because of the absence of concluding evidence from any of the investigations which have been carried on since the attack, and building on the highly heterogeneous public debate around the perpetrators of the sabotage, we ask:
 </p>
 
-> **To what extent are popular rumours about the perpetrator of the Nord Stream pipeline sabotage reflected in the Twitter discourse?**
+> **To what extent are popular rumors about the perpetrator of the Nord Stream pipeline sabotage reflected in the Twitter discourse?**
 
 <a name="hyp"></a>
 ### Hypotheses
@@ -361,7 +361,7 @@ Apart from that, certain limitations of the investigation must be recognized. Fi
 <a name="conclusion"></a>
 ## Conclusion
 <p align="justify">
-Our analysis has looked at the Twitter discourse surrounding the Nord Stream pipeline sabotage and fully confirmed H<sub>1</sub>, partially H<sub>2</sub>, while H<sub>3</sub> was found to be quite different from our expectations. Overall, we can see that the Twitter debate around Nord Stream did indeed reflect the popular rumours already pushed forward in the public discourse. Our study did not find substantial discrepancies between the two – although it did find that the prevalence of some topics relative to others (such as the "US-to-blame" and the "Russia-to-blame") were not represented in equal shares – both in the number of tweets and in the number of people in the different communities.
+Our analysis has looked at the Twitter discourse surrounding the Nord Stream pipeline sabotage and fully confirmed H<sub>1</sub>, partially H<sub>2</sub>, while H<sub>3</sub> was found to be quite different from our expectations. Overall, we can see that the Twitter debate around Nord Stream did indeed reflect the popular rumors already pushed forward in the public discourse. Our study did not find substantial discrepancies between the two – although it did find that the prevalence of some topics relative to others (such as the "US-to-blame" and the "Russia-to-blame") were not represented in equal shares – both in the number of tweets and in the number of people in the different communities.
 </p> 
 
 <p align="justify">
