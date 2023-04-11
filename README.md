@@ -369,7 +369,6 @@ Moreover, through the use of social network analysis and topic modeling we were 
  </p> 
 
 <p align="justify">
-
 Our findings suggest that the further apart communities were, the more divergent their topics of discussion became, and the more divergent their identities appeared to be. Specifically, discourse on the left side of the network was dominated by closely intertwined pro-Kremlin and conspiracy theory narratives, most of which suspect or blame the US for the sabotage. Meanwhile, the right side of the network displayed journalist and anti-Kremlin communities. Overall, our study provides novel insights into the dynamics of discourse and the ways in which popular rumors and conspiracy theories are reflected on social media.
 </p> 
 
