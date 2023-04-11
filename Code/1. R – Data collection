@@ -1,6 +1,6 @@
 1. Data Collection – R Code
 
-# Load packages
+# Load packages (packages for second R part already included)
 library(readxl)
 library(dplyr)
 library(reactable)
