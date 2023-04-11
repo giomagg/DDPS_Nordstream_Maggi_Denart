@@ -361,7 +361,7 @@ Apart from that, certain limitations of the investigation must be recognized. Fi
 <a name="conclusion"></a>
 ## Conclusion
 <p align="justify">
-In sum, our investigation examined the Twitter discourse surrounding the Nord Stream pipeline sabotage and found that popular rumors about the perpetrator were strongly reflected in the discourse network. Overall, we can see that the Twitter debate around Nord Stream did indeed reflect the popular rumors already pushed forward in the public discourse. (???) Our study did not find substantial discrepancies between the two – although it did find that the prevalence of some topics relative to others (such as the "US-to-blame" and the "Russia-to-blame") were not represented in equal shares – both in the number of Tweets and in the number of people in the different communities.
+In sum, our investigation examined the Twitter discourse surrounding the Nord Stream pipeline sabotage and found that popular rumors about the perpetrator were strongly reflected in the discourse network. Through our exploratory research approach, we were able to determine that the Twitter debate around Nord Stream did indeed reflect the popular rumors already pushed forward in the public discourse. However, it stands out that the belief that the US was behind the sabotage strongly prevails within the Nord Stream discourse network, both in terms of the number of Tweets and Communities.
 </p> 
 
 <p align="justify">
