@@ -80,7 +80,7 @@ Secondly, hypothesis number two is derived from the overall suspicion of Russia 
 > ***H*<sub>2</sub>: The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.**
 
 <p align="justify">
-Thirdly, we base our third hypothesis mainly on the US intelligence reviewed by the New York Times and the investigation by a German journalists' network, which indicate that a pro-Ukrainian group caused the explosion (Entous et al., 2023; Reuters, 2023). It is important to note that EU and NATO officials distanced themselves from such speculations (Barigazzi & Bayer, 2023).
+Shortly after the sabotage and following months-long Ukrainian demands for a European gas embargo, speculations began to rise as to whether Ukraine could be behind the incident since without the pipeline Russia would lose an important lever and source of income for its war (Koberstein, 2023). In addition, reports emerged in March after which US intelligence reviewed by the New York Times and an investigation by a German journalists' network indicated that a pro-Ukrainian group caused the explosion (Entous et al., 2023; Götschenberg et al., 2023; Reuters, 2023). It is important to note that EU and NATO officials distanced themselves from such speculations (Barigazzi & Bayer, 2023). Yet, our hypothesis is therefore as follows:
 </p>
 
 > ***H*<sub>3</sub>: The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.**
