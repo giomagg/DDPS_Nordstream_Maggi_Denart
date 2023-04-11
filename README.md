@@ -361,7 +361,7 @@ Apart from that, certain limitations of the investigation must be recognized. Fi
 <a name="conclusion"></a>
 ## Conclusion
 <p align="justify">
-In sum, our investigation examined the Twitter discourse surrounding the Nord Stream pipeline sabotage and found that popular rumors about the perpetrator were strongly reflected in the discourse network. Through our exploratory research approach, we were able to determine that the Twitter debate around Nord Stream did indeed reflect the popular rumors already pushed forward in the public discourse. However, it stands out that the belief that the US was behind the sabotage strongly prevails within the Nord Stream discourse network, both in terms of the number of Tweets and communities.
+In sum, our investigation examined the Twitter discourse surrounding the Nord Stream pipeline sabotage and found that popular rumors about the perpetrator were strongly reflected in the discourse network. Our exploratory research approach revealed that the discourse on Twitter around Nord Stream indeed mirrored the rumors already circulating in the public discourse. Notably, it stands out that the belief that the US was responsible for the sabotage strongly prevailed within the Nord Stream discourse network, both in terms of the number of Tweets and communities.
 </p> 
 
 <p align="justify">
@@ -369,7 +369,8 @@ Moreover, through the use of social network analysis and topic modeling we were 
  </p> 
 
 <p align="justify">
-Still, while taking these considerations into account, our findings suggest that the further apart two communities were, the more their topics of discussion differed, and the more different their identities seemed to be. In fact, while discourse in one realm (left side of the graph) of the network was dominated by closely intertwined pro-Kremlin and conspiracy theory narratives – most of which suspect or directly blame the US to be behind the sabotage – the other realm (right side of the graph) displays journalist and anti-Kremlin communities.
+
+Our findings suggest that the further apart communities were, the more divergent their topics of discussion became, and the more divergent their identities appeared to be. Specifically, discourse on the left side of the network was dominated by closely intertwined pro-Kremlin and conspiracy theory narratives, most of which suspect or blame the US for the sabotage. Meanwhile, the right side of the network displayed journalist and anti-Kremlin communities. Overall, our study provides novel insights into the dynamics of discourse and the ways in which popular rumors and conspiracy theories are reflected on social media.
 </p> 
 
 <a name="ref"></a>
