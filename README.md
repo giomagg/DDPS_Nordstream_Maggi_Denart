@@ -417,6 +417,8 @@ Hersh, S. (2023, February 8). How America Took Out The Nord Stream Pipeline. *Se
 
 ISPI. (2022). Gas, crisi Russia-UE: La dashboard con tutti i numeri. *Istituto per gli Studi di Politica Internazionale (ISPI)*. https://www.ispionline.it/it/pubblicazione/gas-crisi-russia-ue-la-dashboard-con-tutti-i-numeri-35726
 
+Koberstein, H. (2023, March 10). USA, *Ukraine, Russland: Wer steckt hinter dem Pipeline-Angriff?* ZDF. https://www.zdf.de/nachrichten/politik/nord-stream-pipeline-anschlag-ermittlungen-100.html
+
 Meredith, S. (2022, October 11). All you need to know about the Nord Stream gas leaks—And why Europe suspects ‘gross sabotage’. *CNBC*. https://www.cnbc.com/2022/10/11/nord-stream-gas-leaks-what-happened-and-why-europe-suspects-sabotage.html
 
 Midolo, E. (2023, April 10). US bombed Nord Stream gas pipelines, claims investigative journalist Seymour Hersh. *The Times* https://www.thetimes.co.uk/article/us-bombed-nord-stream-gas-pipelines-claims-investigative-journalist-seymour-hersh-s730dnnfz
