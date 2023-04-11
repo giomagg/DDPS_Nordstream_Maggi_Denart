@@ -71,19 +71,19 @@ Following from the brief qualitative work conducted in preparation to the study 
 <p align="justify">
 Our first hypothesis is derived from the claims made by Russia both in front of the UN Security Council and on national television, as well as from the popularization of such a narrative in the West following the publishing of Seymour Hersh's article. Moreover, analysing the <em>EUvDisinfo database</em>, an initiative created by the EU External Action Services to track disinformation concerning the Russo-Ukrainian war, we found this narrative to be particularly prevalent (East StratCom Task Force, 2022). Therefore, our first hypothesis is: </p>
 
-> ***H*<sub>1</sub>: The prevalence of Tweets suspecting the United States are behind the sabotage will be relatively high.**
+> ***H*<sub>1</sub>: The prevalence of Tweets suspecting the United States behind the sabotage will be relatively high.**
 
 <p align="justify">
 Secondly, hypothesis number two is derived from the overall suspicion of Russia being behind the attack which has been quite prevalent in the journalistic discourse in many Western and European countries (See for example Atwood (2022); Bennetts (2023); Welt (2022)). No formal allegations have been put forward, and Harris et al. (2022) reported on the <em>Washington Post</em> that, as of December 2022, no concluding evidence were found to support this claim. Still, some public figures – such as US Energy Secretary Jennifer Granholm, German Economy Minister Robert Habeck, and an adviser to Volodymyr Zelensky – expressed their suspicion of Russia being behind the attack (Harris et al., 2022). Thus, our second hypothesis is: 
 </p>
 
-> ***H*<sub>2</sub>: The prevalence of Tweets suspecting Russia is behind the sabotage will be relatively high.**
+> ***H*<sub>2</sub>: The prevalence of Tweets suspecting Russia behind the sabotage will be relatively high.**
 
 <p align="justify">
 Thirdly, we base our third hypothesis mainly on the US intelligence reviewed by the New York Times and the investigation by a German journalists' network, which indicate that a pro-Ukrainian group caused the explosion (Entous et al., 2023; Reuters, 2023). It is important to note that EU and NATO officials distanced themselves from such speculations (Barigazzi & Bayer, 2023).
 </p>
 
-> ***H*<sub>3</sub>: The prevalence of Tweets suspecting Ukraine is behind the sabotage will be relatively high.**
+> ***H*<sub>3</sub>: The prevalence of Tweets suspecting Ukraine behind the sabotage will be relatively high.**
 
 <p align="justify">
 In addition to these three hypotheses, we had some expectations about how these topics would be distributed across different Twitter communities. For this we build on the – still debated – literature on political bubbles on social media which shows how discussions online are structured around ideological affiliations – which are reinforced by the individual's interactions with these epistemic ecosystems (see e.g., Eady et al., 2019; Flaxman et al., 2016; Ruiz & Nilsonn 2023). The literature also finds that the ideological structure of our online networks influences our exposure, dissemination, and belief of the information we come across online (Ognyanova, 2021). In this context, information – especially false messages – spread further in ideologically similar communities while they are restrained by an ideologically integrated network structure (Stein et al., 2023).  This is because a person's probability of sharing a message online increases when it is aligned to the individual's previous beliefs and ideology (<em>ibidem</em>). Building on these intuitions, we can expect that different communities – all displaying diverse interests, ideologies, and identities – will focus on different aspects of the Nord Stream events in their discussions. Therefore, they will develop different narratives around the same event.
