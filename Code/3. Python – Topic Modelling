@@ -1,4 +1,4 @@
-#4. Topic Modelling – Python (BERTopic)
+#3. Topic Modelling – Python (BERTopic)
 
 #STEP 1 - Import new dataset with modularity class
 df = pd.read_csv("Nordstream_class_data.csv")
