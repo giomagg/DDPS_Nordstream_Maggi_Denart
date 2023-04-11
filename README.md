@@ -355,7 +355,7 @@ With regard to our research question, we found that popular rumors about the per
 </p>  
 
 <p align="justify">
-Apart from that, certain limitations of the investigation must be recognized. First, although we selected the most prominent hashtag associated with the discourse on the Nord Stream sabotage, it may be the case that a number of related Tweets were outside our scope due to the use of different hashtags or none at all. Second, our dataset was filtered to include only English and German-language Tweets. Tweets in other languages may contain different perspectives on the perpetration of the Nord Stream pipeline sabotage. Third, we want to highlight that topic modeling specifications deviating from ours may lead to different results. Lastly, our data and findings only relate to Twitter. Separate investigations would need to be carried out to draw conclusions about other platforms.
+Apart from that, certain limitations of the investigation must be recognized. First, although we selected the most prominent hashtag associated with the discourse on the Nord Stream sabotage, it may be the case that a number of related Tweets were outside our scope due to the use of different hashtags or none at all. Second, our dataset was filtered to include only English and German-language Tweets. Tweets in other languages may contain different perspectives on the perpetration of the Nord Stream pipeline sabotage. Third, we want to highlight that topic modeling specifications deviating from ours may lead to different results. Lastly, our data and findings only relate to Twitter. Separate investigations would need to be carried out to draw conclusions about other social networks.
 </p> 
 
 <a name="conclusion"></a>
