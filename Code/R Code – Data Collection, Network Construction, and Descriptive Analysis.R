@@ -61,6 +61,7 @@ write_graph(simplify(network),  "20230312_network.gml", format = "gml")
 # DISCLAIMER: This is the step were our Python code begins (for topic modeling)
 # Load dataset (network statistics derived from Gephi)
 Nordstream_class_data <- read_csv("~/Desktop/Nordstream_class_data.csv")
+Nordstream_class_data <- rename(Nordstream_class_data, community_id = modularity_class)
 unique(Nordstream_class_data[c("author_id")])
 
 # Turn of scientific notation feature
