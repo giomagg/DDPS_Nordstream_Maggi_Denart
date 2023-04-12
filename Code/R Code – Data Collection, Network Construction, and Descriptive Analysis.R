@@ -58,6 +58,18 @@ network <- filter(Nordstream_df_lang, retweet_count > 0) %>%
 # Create network graph file for Gephi
 write_graph(simplify(network),  "20230312_network.gml", format = "gml")
 
+# Load modularity dataset derived from Gephi
+Nordstream_modularity <- read.csv("~/Desktop/Nordstream_modularity_data.csv",
+                                  stringsAsFactors = FALSE)
+Nordstream_modularity$name <- as.character(Nordstream_modularity$name)
+Nordstream_modularity <- rename(Nordstream_modularity, author_id = name)
+Nordstream_modularity$author_id <-gsub("x","",as.character(Nordstream_modularity$author_id))
+
+Nordstream_class_data <- merge(x = Nordstream_df_lang, y = Nordstream_modularity[, c("author_id", "modularity_class", "pageranks")], 
+                                by = "author_id", all.x = T)
+
+Nordstream_class_data <- rename(Nordstream_df_lang_mod, community_id = modularity_class)
+
 # DISCLAIMER: This is the step were our Python code begins (for topic modeling)
 # Load dataset (network statistics derived from Gephi)
 Nordstream_class_data <- read_csv("~/Desktop/Nordstream_class_data.csv")
