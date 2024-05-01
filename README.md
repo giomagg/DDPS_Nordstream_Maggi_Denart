@@ -6,10 +6,6 @@ _Paris, April 13th 2023_
 This repository provides access to the code used for the final project in the context of the course "Diving in the Digital Public Space" offered by CIVICA in the Spring of 2023 and taught by Prof. Jean-Philippe Cointet (<i>Sciences Po</i>), Prof. Marton Karsai (<i>Central European University</i>), and Armin Pournaki (<i>Sciences Po</i>). 
 </p>
 
-<p align="justify">
-The project was developed by Giovanni Maggi and Louis Denart, master candidates in the Digital, New technologies and Public Policy specialisation of the <i>Sciences Po School of Public Affairs</i>. 
-</p>
-
 Here we present a summary of our digital investigation. 
 
 ## Table of Contents
